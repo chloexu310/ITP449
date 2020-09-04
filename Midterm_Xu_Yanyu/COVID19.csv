@@ -1,0 +1,1720 @@
+Date,State,Country,Confirmed,Deaths,Recovered
+1/22/20 12:00,Anhui,China,1,0,0
+1/22/20 12:00,Beijing,China,14,0,0
+1/22/20 12:00,Chongqing,China,6,0,0
+1/22/20 12:00,Fujian,China,1,0,0
+1/22/20 12:00,Gansu,China,0,0,0
+1/22/20 12:00,Guangdong,China,26,0,0
+1/22/20 12:00,Guangxi,China,2,0,0
+1/22/20 12:00,Guizhou,China,1,0,0
+1/22/20 12:00,Hainan,China,4,0,0
+1/22/20 12:00,Hebei,China,1,0,0
+1/22/20 12:00,Heilongjiang,China,0,0,0
+1/22/20 12:00,Henan,China,5,0,0
+1/22/20 12:00,Hong Kong,China,0,0,0
+1/22/20 12:00,Hubei,China,444,0,0
+1/22/20 12:00,Hunan,China,4,0,0
+1/22/20 12:00,Inner Mongolia,China,0,0,0
+1/22/20 12:00,Jiangsu,China,1,0,0
+1/22/20 12:00,Jiangxi,China,2,0,0
+1/22/20 12:00,Jilin,China,0,0,0
+1/22/20 12:00,Liaoning,China,2,0,0
+1/22/20 12:00,Macau,China,1,0,0
+1/22/20 12:00,Ningxia,China,1,0,0
+1/22/20 12:00,Qinghai,China,0,0,0
+1/22/20 12:00,Shaanxi,China,0,0,0
+1/22/20 12:00,Shandong,China,2,0,0
+1/22/20 12:00,Shanghai,China,9,0,0
+1/22/20 12:00,Shanxi,China,1,0,0
+1/22/20 12:00,Sichuan,China,5,0,0
+1/22/20 12:00,Taiwan,China,1,0,0
+1/22/20 12:00,Tianjin,China,4,0,0
+1/22/20 12:00,Tibet,China,0,0,0
+1/22/20 12:00,Washington,US,1,0,0
+1/22/20 12:00,Xinjiang,China,0,0,0
+1/22/20 12:00,Yunnan,China,1,0,0
+1/22/20 12:00,Zhejiang,China,10,0,0
+1/22/20 12:00,,Japan,2,0,0
+1/22/20 12:00,,Thailand,2,0,0
+1/22/20 12:00,,South Korea,1,0,0
+1/23/20 12:00,Anhui,China,9,0,0
+1/23/20 12:00,Beijing,China,22,0,0
+1/23/20 12:00,Chongqing,China,9,0,0
+1/23/20 12:00,Fujian,China,5,0,0
+1/23/20 12:00,Gansu,China,2,0,0
+1/23/20 12:00,Guangdong,China,32,0,2
+1/23/20 12:00,Guangxi,China,5,0,0
+1/23/20 12:00,Guizhou,China,3,0,0
+1/23/20 12:00,Hainan,China,5,0,0
+1/23/20 12:00,Hebei,China,1,1,0
+1/23/20 12:00,Heilongjiang,China,2,0,0
+1/23/20 12:00,Henan,China,5,0,0
+1/23/20 12:00,Hong Kong,Hong Kong,2,0,0
+1/23/20 12:00,Hubei,China,444,17,28
+1/23/20 12:00,Hunan,China,9,0,0
+1/23/20 12:00,Inner Mongolia,China,0,0,0
+1/23/20 12:00,Jiangsu,China,5,0,0
+1/23/20 12:00,Jiangxi,China,7,0,0
+1/23/20 12:00,Jilin,China,1,0,0
+1/23/20 12:00,Liaoning,China,3,0,0
+1/23/20 12:00,Macau,Macau,2,0,0
+1/23/20 12:00,Ningxia,China,1,0,0
+1/23/20 12:00,Qinghai,China,0,0,0
+1/23/20 12:00,Shaanxi,China,3,0,0
+1/23/20 12:00,Shandong,China,6,0,0
+1/23/20 12:00,Shanghai,China,16,0,0
+1/23/20 12:00,Shanxi,China,1,0,0
+1/23/20 12:00,Sichuan,China,8,0,0
+1/23/20 12:00,Taiwan,Taiwan,1,0,0
+1/23/20 12:00,Tianjin,China,4,0,0
+1/23/20 12:00,Tibet,China,0,0,0
+1/23/20 12:00,Washington,US,1,0,0
+1/23/20 12:00,Xinjiang,China,2,0,0
+1/23/20 12:00,Yunnan,China,2,0,0
+1/23/20 12:00,Zhejiang,China,27,0,0
+1/23/20 12:00,,Japan,1,0,0
+1/23/20 12:00,,Thailand,3,0,0
+1/23/20 12:00,,South Korea,1,0,0
+1/23/20 12:00,,Singapore,1,0,0
+1/23/20 12:00,,Philippines,0,0,0
+1/23/20 12:00,,Malaysia,0,0,0
+1/23/20 12:00,,Vietnam,2,0,0
+1/23/20 12:00,,Australia,0,0,0
+1/23/20 12:00,,Mexico,0,0,0
+1/23/20 12:00,,Brazil,0,0,0
+1/24/20 12:00,Hubei,China,549,24,31
+1/24/20 12:00,Guangdong,China,53,0,2
+1/24/20 12:00,Zhejiang,China,43,0,1
+1/24/20 12:00,Beijing,China,36,0,1
+1/24/20 12:00,Chongqing,China,27,0,0
+1/24/20 12:00,Hunan,China,24,0,0
+1/24/20 12:00,Guangxi,China,23,0,0
+1/24/20 12:00,Shanghai,China,20,0,1
+1/24/20 12:00,Jiangxi,China,18,0,0
+1/24/20 12:00,Sichuan,China,15,0,0
+1/24/20 12:00,Shandong,China,15,0,0
+1/24/20 12:00,Anhui,China,15,0,0
+1/24/20 12:00,Fujian,China,10,0,0
+1/24/20 12:00,Henan,China,9,0,0
+1/24/20 12:00,Jiangsu,China,9,0,0
+1/24/20 12:00,Hainan,China,8,0,0
+1/24/20 12:00,Tianjin,China,8,0,0
+1/24/20 12:00,Yunnan,China,5,0,0
+1/24/20 12:00,Shaanxi,China,5,0,0
+1/24/20 12:00,Heilongjiang,China,4,1,0
+1/24/20 12:00,Liaoning,China,4,0,0
+1/24/20 12:00,Guizhou,China,3,0,0
+1/24/20 12:00,Jilin,China,3,0,0
+1/24/20 12:00,Taiwan,Taiwan,3,0,0
+1/24/20 12:00,Ningxia,China,2,0,0
+1/24/20 12:00,Hong Kong,Hong Kong,2,0,0
+1/24/20 12:00,Macau,Macau,2,0,0
+1/24/20 12:00,Hebei,China,2,1,0
+1/24/20 12:00,Gansu,China,2,0,0
+1/24/20 12:00,Xinjiang,China,2,0,0
+1/24/20 12:00,Shanxi,China,1,0,0
+1/24/20 12:00,Inner Mongolia,China,1,0,0
+1/24/20 12:00,Qinghai,China,0,0,0
+1/24/20 12:00,Washington,US,1,0,0
+1/24/20 12:00,Chicago,US,1,0,0
+1/24/20 12:00,,Japan,2,0,0
+1/24/20 12:00,,Thailand,5,0,0
+1/24/20 12:00,,South Korea,2,0,0
+1/24/20 12:00,,Singapore,3,0,0
+1/24/20 12:00,,Vietnam,2,0,0
+1/24/20 12:00,,France,2,0,0
+1/25/20 22:00,Hubei,China,1052,52,42
+1/25/20 22:00,Zhejiang,China,104,0,1
+1/25/20 22:00,Guangdong,China,98,0,2
+1/25/20 22:00,Henan,China,83,1,0
+1/25/20 22:00,Chongqing,China,75,0,0
+1/25/20 22:00,Hunan,China,69,0,0
+1/25/20 22:00,Anhui,China,60,0,0
+1/25/20 22:00,Beijing,China,51,0,2
+1/25/20 22:00,Sichuan,China,44,0,0
+1/25/20 22:00,Shanghai,China,40,1,1
+1/25/20 22:00,Shandong,China,39,0,0
+1/25/20 22:00,Jiangxi,China,36,0,0
+1/25/20 22:00,Guangxi,China,33,0,0
+1/25/20 22:00,Jiangsu,China,31,0,1
+1/25/20 22:00,Hainan,China,19,0,0
+1/25/20 22:00,Liaoning,China,19,0,0
+1/25/20 22:00,Fujian,China,18,1,0
+1/25/20 22:00,Heilongjiang,China,15,0,0
+1/25/20 22:00,Shaanxi,China,15,0,0
+1/25/20 22:00,Tianjin,China,13,0,0
+1/25/20 22:00,Hebei,China,13,1,0
+1/25/20 22:00,Yunnan,China,11,0,0
+1/25/20 22:00,Shanxi,China,9,0,0
+1/25/20 22:00,Inner Mongolia,China,7,0,0
+1/25/20 22:00,Gansu,China,7,0,0
+1/25/20 22:00,Guizhou,China,5,0,0
+1/25/20 22:00,Hong Kong,Hong Kong,5,0,0
+1/25/20 22:00,Ningxia,China,4,0,0
+1/25/20 22:00,Jilin,China,4,0,0
+1/25/20 22:00,Xinjiang,China,4,0,0
+1/25/20 22:00,Taiwan,Taiwan,3,0,0
+1/25/20 22:00,Macau,Macau,2,0,0
+1/25/20 22:00,Qinghai,China,1,0,0
+1/25/20 22:00,Washington,US,1,0,0
+1/25/20 22:00,Illinois,US,1,0,0
+1/25/20 22:00,,Japan,2,0,0
+1/25/20 22:00,,Thailand,7,0,0
+1/25/20 22:00,,South Korea,3,0,0
+1/25/20 22:00,,Singapore,3,0,0
+1/25/20 22:00,,Vietnam,2,0,0
+1/25/20 22:00,,France,3,0,0
+1/25/20 22:00,,Australia,4,0,0
+1/25/20 22:00,,Nepal,1,0,0
+1/25/20 22:00,,Malaysia,3,0,0
+1/26/20 23:00,Hubei,China,1423,76,44
+1/26/20 23:00,Guangdong,China,146,0,2
+1/26/20 23:00,Zhejiang,China,128,0,1
+1/26/20 23:00,Henan,China,128,1,0
+1/26/20 23:00,Chongqing,China,110,0,0
+1/26/20 23:00,Hunan,China,100,0,0
+1/26/20 23:00,Anhui,China,70,0,0
+1/26/20 23:00,Sichuan,China,69,0,0
+1/26/20 23:00,Beijing,China,68,0,2
+1/26/20 23:00,Shandong,China,63,0,0
+1/26/20 23:00,Shanghai,China,53,1,1
+1/26/20 23:00,Jiangxi,China,48,0,0
+1/26/20 23:00,Jiangsu,China,47,0,1
+1/26/20 23:00,Guangxi,China,46,0,0
+1/26/20 23:00,Fujian,China,35,0,0
+1/26/20 23:00,Liaoning,China,23,0,0
+1/26/20 23:00,Hainan,China,22,0,0
+1/26/20 23:00,Shaanxi,China,22,0,0
+1/26/20 23:00,Heilongjiang,China,21,1,0
+1/26/20 23:00,Yunnan,China,19,0,0
+1/26/20 23:00,Hebei,China,18,1,0
+1/26/20 23:00,Tianjin,China,14,0,0
+1/26/20 23:00,Gansu,China,14,0,0
+1/26/20 23:00,Shanxi,China,13,0,0
+1/26/20 23:00,Inner Mongolia,China,11,0,0
+1/26/20 23:00,Hong Kong,Hong Kong,8,0,0
+1/26/20 23:00,Guizhou,China,7,0,0
+1/26/20 23:00,Jilin,China,6,0,0
+1/26/20 23:00,Macau,Macau,6,0,0
+1/26/20 23:00,Xinjiang,China,5,0,0
+1/26/20 23:00,Ningxia,China,4,0,0
+1/26/20 23:00,Taiwan,Taiwan,4,0,0
+1/26/20 23:00,Qinghai,China,4,0,0
+1/26/20 23:00,Washington,US,1,0,0
+1/26/20 23:00,Illinois,US,1,0,0
+1/26/20 23:00,California,US,2,0,0
+1/26/20 23:00,Arizona,US,1,0,0
+1/26/20 23:00,,Japan,4,0,1
+1/26/20 23:00,,Thailand,8,0,2
+1/26/20 23:00,,South Korea,3,0,0
+1/26/20 23:00,,Singapore,4,0,0
+1/26/20 23:00,,Vietnam,2,0,0
+1/26/20 23:00,,France,3,0,0
+1/26/20 23:00,,Australia,4,0,0
+1/26/20 23:00,,Nepal,1,0,0
+1/26/20 23:00,,Malaysia,4,0,0
+1/26/20 23:00,Ontario,Canada,1,0,0
+1/27/20 20:30,Hubei,China,2714,100,47
+1/27/20 20:30,Zhejiang,China,173,0,1
+1/27/20 20:30,Henan,China,168,1,0
+1/27/20 20:30,Guangdong,China,151,0,4
+1/27/20 20:30,Chongqing,China,132,0,0
+1/27/20 20:30,Anhui,China,106,0,0
+1/27/20 20:30,Hunan,China,100,0,0
+1/27/20 20:30,Sichuan,China,90,0,0
+1/27/20 20:30,Shandong,China,87,1,0
+1/27/20 20:30,Beijing,China,80,1,2
+1/27/20 20:30,Jiangxi,China,72,0,2
+1/27/20 20:30,Jiangsu,China,70,0,1
+1/27/20 20:30,Shanghai,China,66,1,3
+1/27/20 20:30,Fujian,China,59,0,0
+1/27/20 20:30,Guangxi,China,51,0,0
+1/27/20 20:30,Shaanxi,China,35,0,0
+1/27/20 20:30,Hainan,China,33,1,0
+1/27/20 20:30,Hebei,China,33,1,0
+1/27/20 20:30,Heilongjiang,China,30,1,0
+1/27/20 20:30,Liaoning,China,27,0,0
+1/27/20 20:30,Yunnan,China,26,0,0
+1/27/20 20:30,Tianjin,China,23,0,0
+1/27/20 20:30,Shanxi,China,20,0,0
+1/27/20 20:30,Gansu,China,19,0,0
+1/27/20 20:30,Inner Mongolia,China,11,0,0
+1/27/20 20:30,Guizhou,China,9,0,0
+1/27/20 20:30,Hong Kong,Hong Kong,8,0,0
+1/27/20 20:30,Ningxia,China,7,0,0
+1/27/20 20:30,Jilin,China,6,0,0
+1/27/20 20:30,Macau,Macau,6,0,0
+1/27/20 20:30,Qinghai,China,6,0,0
+1/27/20 20:30,Taiwan,Taiwan,5,0,0
+1/27/20 20:30,Xinjiang,China,5,0,0
+1/27/20 20:30,Washington,US,1,0,0
+1/27/20 20:30,Illinois,US,1,0,0
+1/27/20 20:30,California,US,2,0,0
+1/27/20 20:30,Arizona,US,1,0,0
+1/27/20 20:30,,Japan,4,0,1
+1/27/20 20:30,,Thailand,8,0,2
+1/27/20 20:30,,South Korea,4,0,0
+1/27/20 20:30,,Singapore,5,0,0
+1/27/20 20:30,,Vietnam,2,0,0
+1/27/20 20:30,,France,3,0,0
+1/27/20 20:30,,Nepal,1,0,0
+1/27/20 20:30,,Malaysia,4,0,0
+1/27/20 20:30,Ontario,Canada,1,0,0
+1/27/20 20:30,,Cambodia,1,0,0
+1/27/20 20:30,,Sri Lanka,1,0,0
+1/27/20 20:30,,Ivory Coast,0,0,0
+1/27/20 20:30,New South Wales,Australia,4,0,0
+1/27/20 20:30,Victoria,Australia,1,0,0
+1/27/20 20:30,Bavaria,Germany,1,0,0
+1/28/20 23:00,Hubei,China,3554,125,80
+1/28/20 23:00,Zhejiang,China,296,0,3
+1/28/20 23:00,Guangdong,China,241,0,5
+1/28/20 23:00,Hunan,China,221,0,0
+1/28/20 23:00,Henan,China,206,2,1
+1/28/20 23:00,Anhui,China,152,0,0
+1/28/20 23:00,Chongqing,China,147,0,1
+1/28/20 23:00,Shandong,China,121,0,0
+1/28/20 23:00,Jiangxi,China,109,0,3
+1/28/20 23:00,Sichuan,China,108,0,0
+1/28/20 23:00,Jiangsu,China,99,0,1
+1/28/20 23:00,Beijing,China,91,1,4
+1/28/20 23:00,Fujian,China,82,0,0
+1/28/20 23:00,Shanghai,China,80,1,4
+1/28/20 23:00,Guangxi,China,58,0,2
+1/28/20 23:00,Shaanxi,China,56,0,0
+1/28/20 23:00,Hebei,China,48,1,0
+1/28/20 23:00,Yunnan,China,44,0,0
+1/28/20 23:00,Hainan,China,43,1,0
+1/28/20 23:00,Heilongjiang,China,37,1,0
+1/28/20 23:00,Liaoning,China,36,0,0
+1/28/20 23:00,Shanxi,China,27,0,0
+1/28/20 23:00,Tianjin,China,25,0,0
+1/28/20 23:00,Gansu,China,24,0,0
+1/28/20 23:00,Inner Mongolia,China,16,0,0
+1/28/20 23:00,Xinjiang,China,13,0,0
+1/28/20 23:00,Ningxia,China,12,0,0
+1/28/20 23:00,Guizhou,China,9,0,0
+1/28/20 23:00,Jilin,China,9,0,0
+1/28/20 23:00,Hong Kong,Hong Kong,8,0,0
+1/28/20 23:00,Taiwan,Taiwan,8,0,0
+1/28/20 23:00,Macau,Macau,7,0,0
+1/28/20 23:00,Qinghai,China,6,0,0
+1/28/20 23:00,Washington,US,1,0,0
+1/28/20 23:00,Illinois,US,1,0,0
+1/28/20 23:00,California,US,2,0,0
+1/28/20 23:00,Arizona,US,1,0,0
+1/28/20 23:00,,Japan,7,0,1
+1/28/20 23:00,,Thailand,14,0,5
+1/28/20 23:00,,South Korea,4,0,0
+1/28/20 23:00,,Singapore,7,0,0
+1/28/20 23:00,,Vietnam,2,0,0
+1/28/20 23:00,,France,4,0,0
+1/28/20 23:00,,Nepal,1,0,0
+1/28/20 23:00,,Malaysia,7,0,0
+1/28/20 23:00,Ontario,Canada,1,0,0
+1/28/20 23:00,British Columbia,Canada,1,0,0
+1/28/20 23:00,,Cambodia,1,0,0
+1/28/20 23:00,,Sri Lanka,1,0,0
+1/28/20 23:00,New South Wales,Australia,4,0,0
+1/28/20 23:00,Victoria,Australia,1,0,0
+1/28/20 23:00,Bavaria,Germany,4,0,0
+1/29/20 21:00,Hubei,China,4586,162,90
+1/29/20 21:00,Zhejiang,China,428,0,4
+1/29/20 21:00,Guangdong,China,311,0,6
+1/29/20 21:00,Henan,China,278,2,2
+1/29/20 21:00,Hunan,China,277,0,0
+1/29/20 21:00,Anhui,China,200,0,2
+1/29/20 21:00,Chongqing,China,165,0,1
+1/29/20 21:00,Jiangxi,China,162,0,4
+1/29/20 21:00,Shandong,China,145,0,1
+1/29/20 21:00,Sichuan,China,142,1,1
+1/29/20 21:00,Jiangsu,China,129,0,1
+1/29/20 21:00,Beijing,China,111,1,4
+1/29/20 21:00,Shanghai,China,101,1,5
+1/29/20 21:00,Fujian,China,101,0,0
+1/29/20 21:00,Guangxi,China,78,0,2
+1/29/20 21:00,Hebei,China,65,1,0
+1/29/20 21:00,Shaanxi,China,56,0,0
+1/29/20 21:00,Yunnan,China,55,0,0
+1/29/20 21:00,Hainan,China,43,1,0
+1/29/20 21:00,Heilongjiang,China,43,1,0
+1/29/20 21:00,Liaoning,China,39,0,1
+1/29/20 21:00,Shanxi,China,35,0,1
+1/29/20 21:00,Tianjin,China,27,0,0
+1/29/20 21:00,Gansu,China,26,0,0
+1/29/20 21:00,Inner Mongolia,China,16,0,0
+1/29/20 21:00,Jilin,China,14,0,1
+1/29/20 21:00,Xinjiang,China,14,0,0
+1/29/20 21:00,Guizhou,China,12,0,1
+1/29/20 21:00,Ningxia,China,12,0,0
+1/29/20 21:00,Hong Kong,Hong Kong,10,0,0
+1/29/20 21:00,Taiwan,Taiwan,8,0,0
+1/29/20 21:00,Macau,Macau,7,0,0
+1/29/20 21:00,Qinghai,China,6,0,0
+1/29/20 21:00,Tibet,China,1,0,0
+1/29/20 21:00,Washington,US,1,0,0
+1/29/20 21:00,Illinois,US,1,0,0
+1/29/20 21:00,California,US,2,0,0
+1/29/20 21:00,Arizona,US,1,0,0
+1/29/20 21:00,,Japan,11,0,1
+1/29/20 21:00,,Thailand,14,0,5
+1/29/20 21:00,,South Korea,4,0,0
+1/29/20 21:00,,Singapore,10,0,0
+1/29/20 21:00,,Vietnam,2,0,0
+1/29/20 21:00,,France,5,0,0
+1/29/20 21:00,,Nepal,1,0,0
+1/29/20 21:00,,Malaysia,7,0,0
+1/29/20 21:00,Ontario,Canada,2,0,0
+1/29/20 21:00,British Columbia,Canada,1,0,0
+1/29/20 21:00,,Cambodia,1,0,0
+1/29/20 21:00,,Sri Lanka,1,0,0
+1/29/20 21:00,New South Wales,Australia,4,0,0
+1/29/20 21:00,Victoria,Australia,2,0,0
+1/29/20 21:00,Queensland,Australia,1,0,0
+1/29/20 21:00,Bavaria,Germany,4,0,0
+1/29/20 21:00,,Finland,1,0,0
+1/29/20 21:00,,United Arab Emirates,4,0,0
+1/30/20 21:30,Hubei,China,5806,204,116
+1/30/20 21:30,Zhejiang,China,537,0,9
+1/30/20 21:30,Guangdong,China,393,0,11
+1/30/20 21:30,Henan,China,352,2,3
+1/30/20 21:30,Hunan,China,332,0,2
+1/30/20 21:30,Jiangxi,China,240,0,7
+1/30/20 21:30,Anhui,China,237,0,3
+1/30/20 21:30,Chongqing,China,206,0,1
+1/30/20 21:30,Shandong,China,178,0,2
+1/30/20 21:30,Sichuan,China,177,1,1
+1/30/20 21:30,Jiangsu,China,168,0,2
+1/30/20 21:30,Shanghai,China,128,1,9
+1/30/20 21:30,Beijing,China,121,1,5
+1/30/20 21:30,Fujian,China,101,0,0
+1/30/20 21:30,Guangxi,China,87,0,2
+1/30/20 21:30,Hebei,China,82,1,0
+1/30/20 21:30,Yunnan,China,76,0,0
+1/30/20 21:30,Shaanxi,China,87,0,0
+1/30/20 21:30,Heilongjiang,China,59,2,0
+1/30/20 21:30,Hainan,China,50,1,1
+1/30/20 21:30,Liaoning,China,45,0,1
+1/30/20 21:30,Shanxi,China,39,0,1
+1/30/20 21:30,Tianjin,China,32,0,0
+1/30/20 21:30,Gansu,China,29,0,0
+1/30/20 21:30,Ningxia,China,21,0,1
+1/30/20 21:30,Inner Mongolia,China,20,0,0
+1/30/20 21:30,Xinjiang,China,17,0,0
+1/30/20 21:30,Guizhou,China,15,0,1
+1/30/20 21:30,Jilin,China,14,0,1
+1/30/20 21:30,Hong Kong,Hong Kong,12,0,0
+1/30/20 21:30,Taiwan,Taiwan,9,0,0
+1/30/20 21:30,Qinghai,China,8,0,0
+1/30/20 21:30,Macau,Macau,7,0,0
+1/30/20 21:30,Tibet,China,1,0,0
+1/30/20 21:30,Washington,US,1,0,0
+1/30/20 21:30,Illinois,US,2,0,0
+1/30/20 21:30,California,US,2,0,0
+1/30/20 21:30,Arizona,US,1,0,0
+1/30/20 21:30,,Japan,11,0,1
+1/30/20 21:30,,Thailand,14,0,5
+1/30/20 21:30,,South Korea,6,0,0
+1/30/20 21:30,,Singapore,10,0,0
+1/30/20 21:30,,Vietnam,2,0,0
+1/30/20 21:30,,France,5,0,0
+1/30/20 21:30,,Nepal,1,0,0
+1/30/20 21:30,,Malaysia,8,0,0
+1/30/20 21:30,Ontario,Canada,2,0,0
+1/30/20 21:30,British Columbia,Canada,1,0,0
+1/30/20 21:30,,Cambodia,1,0,0
+1/30/20 21:30,,Sri Lanka,1,0,0
+1/30/20 21:30,New South Wales,Australia,4,0,2
+1/30/20 21:30,Victoria,Australia,2,0,0
+1/30/20 21:30,Queensland,Australia,3,0,0
+1/30/20 21:30,Bavaria,Germany,4,0,0
+1/30/20 21:30,,Finland,1,0,0
+1/30/20 21:30,,United Arab Emirates,4,0,0
+1/30/20 21:30,,Philippines,1,0,0
+1/30/20 21:30,,India,1,0,0
+1/30/20 21:30,,Italy,2,0,0
+1/31/20 19:00,Hubei,China,7153,249,169
+1/31/20 19:00,Zhejiang,China,537,0,14
+1/31/20 19:00,Guangdong,China,436,0,10
+1/31/20 19:00,Henan,China,352,2,3
+1/31/20 19:00,Hunan,China,332,0,3
+1/31/20 19:00,Jiangxi,China,240,0,7
+1/31/20 19:00,Chongqing,China,238,1,1
+1/31/20 19:00,Anhui,China,237,0,3
+1/31/20 19:00,Shandong,China,184,0,2
+1/31/20 19:00,Sichuan,China,177,1,1
+1/31/20 19:00,Jiangsu,China,168,0,5
+1/31/20 19:00,Shanghai,China,153,1,9
+1/31/20 19:00,Beijing,China,139,1,5
+1/31/20 19:00,Fujian,China,120,0,0
+1/31/20 19:00,Hebei,China,96,1,0
+1/31/20 19:00,Guangxi,China,88,0,2
+1/31/20 19:00,Shaanxi,China,87,0,0
+1/31/20 19:00,Yunnan,China,83,0,1
+1/31/20 19:00,Liaoning,China,60,0,1
+1/31/20 19:00,Heilongjiang,China,59,2,0
+1/31/20 19:00,Hainan,China,58,1,1
+1/31/20 19:00,Shanxi,China,47,0,1
+1/31/20 19:00,Gansu,China,35,0,0
+1/31/20 19:00,Tianjin,China,32,0,0
+1/31/20 19:00,Guizhou,China,29,0,2
+1/31/20 19:00,Ningxia,China,21,0,1
+1/31/20 19:00,Inner Mongolia,China,20,0,0
+1/31/20 19:00,Xinjiang,China,17,0,0
+1/31/20 19:00,Jilin,China,14,0,1
+1/31/20 19:00,Hong Kong,Hong Kong,13,0,0
+1/31/20 19:00,Taiwan,Taiwan,10,0,0
+1/31/20 19:00,Qinghai,China,8,0,0
+1/31/20 19:00,Macau,Macau,7,0,0
+1/31/20 19:00,Tibet,China,1,0,0
+1/31/20 19:00,Washington,US,1,0,0
+1/31/20 19:00,Illinois,US,2,0,0
+1/31/20 19:00,California,US,3,0,0
+1/31/20 19:00,Arizona,US,1,0,0
+1/31/20 19:00,,Japan,17,0,1
+1/31/20 19:00,,Thailand,19,0,7
+1/31/20 19:00,,South Korea,11,0,0
+1/31/20 19:00,,Singapore,16,0,0
+1/31/20 19:00,,Vietnam,2,0,0
+1/31/20 19:00,,France,6,0,0
+1/31/20 19:00,,Nepal,1,0,0
+1/31/20 19:00,,Malaysia,8,0,0
+1/31/20 19:00,Ontario,Canada,2,0,0
+1/31/20 19:00,British Columbia,Canada,1,0,0
+1/31/20 19:00,,Cambodia,1,0,0
+1/31/20 19:00,,Sri Lanka,1,0,0
+1/31/20 19:00,New South Wales,Australia,4,0,2
+1/31/20 19:00,Victoria,Australia,2,0,0
+1/31/20 19:00,Queensland,Australia,3,0,0
+1/31/20 19:00,Bavaria,Germany,7,0,0
+1/31/20 19:00,,Finland,1,0,0
+1/31/20 19:00,,United Arab Emirates,4,0,0
+1/31/20 19:00,,Philippines,1,0,0
+1/31/20 19:00,,India,1,0,0
+1/31/20 19:00,,Italy,2,0,0
+1/31/20 19:00,,Sweden,1,0,0
+1/31/20 19:00,,Russia,2,0,0
+1/31/20 19:00,,Spain,1,0,0
+1/31/20 19:00,,UK,2,0,0
+2/1/20 23:00,Hubei,China,9074,294,215
+2/1/20 23:00,Zhejiang,China,661,0,23
+2/1/20 23:00,Guangdong,China,604,0,14
+2/1/20 23:00,Henan,China,493,2,4
+2/1/20 23:00,Hunan,China,463,0,8
+2/1/20 23:00,Anhui,China,340,0,5
+2/1/20 23:00,Jiangxi,China,333,0,10
+2/1/20 23:00,Chongqing,China,262,1,3
+2/1/20 23:00,Jiangsu,China,236,0,6
+2/1/20 23:00,Sichuan,China,231,1,3
+2/1/20 23:00,Shandong,China,225,0,5
+2/1/20 23:00,Beijing,China,183,1,9
+2/1/20 23:00,Shanghai,China,177,1,10
+2/1/20 23:00,Fujian,China,159,0,0
+2/1/20 23:00,Shaanxi,China,116,0,0
+2/1/20 23:00,Guangxi,China,111,0,2
+2/1/20 23:00,Hebei,China,104,1,3
+2/1/20 23:00,Heilongjiang,China,95,2,2
+2/1/20 23:00,Yunnan,China,93,0,2
+2/1/20 23:00,Liaoning,China,64,0,1
+2/1/20 23:00,Hainan,China,63,1,1
+2/1/20 23:00,Shanxi,China,56,0,1
+2/1/20 23:00,Tianjin,China,45,0,0
+2/1/20 23:00,Gansu,China,40,0,0
+2/1/20 23:00,Guizhou,China,38,0,2
+2/1/20 23:00,Ningxia,China,28,0,0
+2/1/20 23:00,Inner Mongolia,China,27,0,1
+2/1/20 23:00,Jilin,China,23,0,1
+2/1/20 23:00,Xinjiang,China,21,0,0
+2/1/20 23:00,,Japan,20,0,1
+2/1/20 23:00,,Thailand,19,0,5
+2/1/20 23:00,,Singapore,18,0,0
+2/1/20 23:00,,South Korea,15,0,0
+2/1/20 23:00,Hong Kong,Hong Kong,14,0,0
+2/1/20 23:00,Taiwan,Taiwan,10,0,0
+2/1/20 23:00,Qinghai,China,9,0,0
+2/1/20 23:00,,Germany,8,0,0
+2/1/20 23:00,,Malaysia,8,0,0
+2/1/20 23:00,Macau,Macau,7,0,0
+2/1/20 23:00,,France,6,0,0
+2/1/20 23:00,,Vietnam,6,0,1
+2/1/20 23:00,New South Wales,Australia,4,0,2
+2/1/20 23:00,Victoria,Australia,4,0,0
+2/1/20 23:00,,United Arab Emirates,4,0,0
+2/1/20 23:00,Queensland,Australia,2,0,0
+2/1/20 23:00,Ontario,Canada,3,0,0
+2/1/20 23:00,,Italy,2,0,0
+2/1/20 23:00,,Philippines,2,1,0
+2/1/20 23:00,,Russia,2,0,0
+2/1/20 23:00,,UK,2,0,0
+2/1/20 23:00,"Chicago, IL",US,2,0,0
+2/1/20 23:00,South Australia,Australia,2,0,0
+2/1/20 23:00,,Cambodia,1,0,0
+2/1/20 23:00,British Columbia,Canada,1,0,0
+2/1/20 23:00,,Finland,1,0,0
+2/1/20 23:00,,India,1,0,0
+2/1/20 23:00,Tibet,China,1,0,0
+2/1/20 23:00,,Nepal,1,0,0
+2/1/20 23:00,,Spain,1,0,0
+2/1/20 23:00,,Sri Lanka,1,0,0
+2/1/20 23:00,,Sweden,1,0,0
+2/1/20 23:00,"Boston, MA",US,1,0,0
+2/1/20 23:00,"Los Angeles, CA",US,1,0,0
+2/1/20 23:00,"Orange, CA",US,1,0,0
+2/1/20 23:00,"Santa Clara, CA",US,1,0,0
+2/1/20 23:00,"Seattle, WA",US,1,0,0
+2/1/20 23:00,"Tempe, AZ",US,1,0,0
+2/2/20 21:00,Hubei,China,11177,350,295
+2/2/20 21:00,Zhejiang,China,724,0,36
+2/2/20 21:00,Guangdong,China,683,0,15
+2/2/20 21:00,Henan,China,566,2,14
+2/2/20 21:00,Hunan,China,521,0,16
+2/2/20 21:00,Anhui,China,408,0,7
+2/2/20 21:00,Jiangxi,China,391,0,18
+2/2/20 21:00,Chongqing,China,300,2,7
+2/2/20 21:00,Jiangsu,China,271,0,7
+2/2/20 21:00,Sichuan,China,254,1,12
+2/2/20 21:00,Shandong,China,246,0,6
+2/2/20 21:00,Shanghai,China,193,1,10
+2/2/20 21:00,Beijing,China,191,1,9
+2/2/20 21:00,Fujian,China,159,0,0
+2/2/20 21:00,Guangxi,China,127,0,2
+2/2/20 21:00,Shaanxi,China,116,0,0
+2/2/20 21:00,Hebei,China,113,1,3
+2/2/20 21:00,Yunnan,China,105,0,3
+2/2/20 21:00,Heilongjiang,China,95,2,2
+2/2/20 21:00,Hainan,China,71,1,4
+2/2/20 21:00,Liaoning,China,70,0,1
+2/2/20 21:00,Shanxi,China,66,0,3
+2/2/20 21:00,Gansu,China,51,0,3
+2/2/20 21:00,Tianjin,China,48,0,1
+2/2/20 21:00,Guizhou,China,46,0,2
+2/2/20 21:00,Jilin,China,31,0,1
+2/2/20 21:00,Ningxia,China,28,0,0
+2/2/20 21:00,Inner Mongolia,China,27,0,1
+2/2/20 21:00,Xinjiang,China,24,0,0
+2/2/20 21:00,,Japan,20,0,1
+2/2/20 21:00,,Thailand,19,0,5
+2/2/20 21:00,,Singapore,18,0,0
+2/2/20 21:00,Hong Kong,Hong Kong,15,0,0
+2/2/20 21:00,,South Korea,15,0,0
+2/2/20 21:00,Qinghai,China,11,0,0
+2/2/20 21:00,,Germany,10,0,0
+2/2/20 21:00,Taiwan,Taiwan,10,0,0
+2/2/20 21:00,Macau,Macau,8,0,0
+2/2/20 21:00,,Malaysia,8,0,0
+2/2/20 21:00,,France,6,0,0
+2/2/20 21:00,,Vietnam,6,0,1
+2/2/20 21:00,,United Arab Emirates,5,0,0
+2/2/20 21:00,New South Wales,Australia,4,0,2
+2/2/20 21:00,Victoria,Australia,4,0,0
+2/2/20 21:00,Ontario,Canada,3,0,0
+2/2/20 21:00,Queensland,Australia,2,0,0
+2/2/20 21:00,South Australia,Australia,2,0,0
+2/2/20 21:00,,India,2,0,0
+2/2/20 21:00,,Italy,2,0,0
+2/2/20 21:00,,Philippines,2,1,0
+2/2/20 21:00,,Russia,2,0,0
+2/2/20 21:00,,UK,2,0,0
+2/2/20 21:00,"Chicago, IL",US,2,0,0
+2/2/20 21:00,"Santa Clara, CA",US,2,0,0
+2/2/20 21:00,,Cambodia,1,0,0
+2/2/20 21:00,British Columbia,Canada,1,0,0
+2/2/20 21:00,,Finland,1,0,0
+2/2/20 21:00,Tibet,China,1,0,0
+2/2/20 21:00,,Nepal,1,0,0
+2/2/20 21:00,,Spain,1,0,0
+2/2/20 21:00,,Sri Lanka,1,0,0
+2/2/20 21:00,,Sweden,1,0,0
+2/2/20 21:00,"Boston, MA",US,1,0,0
+2/2/20 21:00,"Los Angeles, CA",US,1,0,0
+2/2/20 21:00,"Orange, CA",US,1,0,0
+2/2/20 21:00,"Seattle, WA",US,1,0,0
+2/2/20 21:00,"Tempe, AZ",US,1,0,0
+2/3/20 21:40,Hubei,China,13522,414,396
+2/3/20 21:40,Zhejiang,China,829,0,48
+2/3/20 21:40,Guangdong,China,797,0,21
+2/3/20 21:40,Henan,China,675,2,20
+2/3/20 21:40,Hunan,China,593,0,22
+2/3/20 21:40,Anhui,China,480,0,14
+2/3/20 21:40,Jiangxi,China,476,0,19
+2/3/20 21:40,Chongqing,China,337,2,9
+2/3/20 21:40,Jiangsu,China,308,0,8
+2/3/20 21:40,Sichuan,China,282,1,14
+2/3/20 21:40,Shandong,China,270,0,7
+2/3/20 21:40,Beijing,China,212,1,12
+2/3/20 21:40,Shanghai,China,208,1,10
+2/3/20 21:40,Fujian,China,179,0,1
+2/3/20 21:40,Heilongjiang,China,155,2,2
+2/3/20 21:40,Shaanxi,China,142,0,1
+2/3/20 21:40,Guangxi,China,139,0,7
+2/3/20 21:40,Hebei,China,126,1,3
+2/3/20 21:40,Yunnan,China,117,0,5
+2/3/20 21:40,Hainan,China,79,1,4
+2/3/20 21:40,Liaoning,China,74,0,1
+2/3/20 21:40,Shanxi,China,74,0,2
+2/3/20 21:40,Tianjin,China,60,0,1
+2/3/20 21:40,Guizhou,China,56,0,2
+2/3/20 21:40,Gansu,China,55,0,3
+2/3/20 21:40,Jilin,China,42,0,1
+2/3/20 21:40,Inner Mongolia,China,34,0,1
+2/3/20 21:40,Ningxia,China,34,0,1
+2/3/20 21:40,Xinjiang,China,29,0,0
+2/3/20 21:40,,Japan,20,0,1
+2/3/20 21:40,,Thailand,19,0,5
+2/3/20 21:40,,Singapore,18,0,0
+2/3/20 21:40,Hong Kong,Hong Kong,15,0,0
+2/3/20 21:40,Qinghai,China,15,0,0
+2/3/20 21:40,,South Korea,15,0,0
+2/3/20 21:40,,Germany,12,0,0
+2/3/20 21:40,Taiwan,Taiwan,10,0,0
+2/3/20 21:40,Macau,Macau,8,0,0
+2/3/20 21:40,,Malaysia,8,0,0
+2/3/20 21:40,,Vietnam,8,0,1
+2/3/20 21:40,,France,6,0,0
+2/3/20 21:40,,United Arab Emirates,5,0,0
+2/3/20 21:40,New South Wales,Australia,4,0,2
+2/3/20 21:40,Victoria,Australia,4,0,0
+2/3/20 21:40,,India,3,0,0
+2/3/20 21:40,Queensland,Australia,2,0,0
+2/3/20 21:40,South Australia,Australia,2,0,0
+2/3/20 21:40,"Toronto, ON",Canada,2,0,0
+2/3/20 21:40,,Italy,2,0,0
+2/3/20 21:40,,Philippines,2,1,0
+2/3/20 21:40,,Russia,2,0,0
+2/3/20 21:40,,UK,2,0,0
+2/3/20 21:40,"Chicago, IL",US,2,0,0
+2/3/20 21:40,"San Benito, CA",US,2,0,0
+2/3/20 21:40,"Santa Clara, CA",US,2,0,0
+2/3/20 21:40,,Cambodia,1,0,0
+2/3/20 21:40,British Columbia,Canada,1,0,0
+2/3/20 21:40,"London, ON",Canada,1,0,0
+2/3/20 21:40,,Finland,1,0,0
+2/3/20 21:40,Tibet,China,1,0,0
+2/3/20 21:40,,Nepal,1,0,0
+2/3/20 21:40,,Spain,1,0,0
+2/3/20 21:40,,Sri Lanka,1,0,0
+2/3/20 21:40,,Sweden,1,0,0
+2/3/20 21:40,"Boston, MA",US,1,0,0
+2/3/20 21:40,"Los Angeles, CA",US,1,0,0
+2/3/20 21:40,"Orange, CA",US,1,0,0
+2/3/20 21:40,"Seattle, WA",US,1,0,0
+2/3/20 21:40,"Tempe, AZ",US,1,0,0
+2/4/20 22:00,Hubei,China,16678,479,522
+2/4/20 22:00,Zhejiang,China,895,0,63
+2/4/20 22:00,Guangdong,China,870,0,32
+2/4/20 22:00,Henan,China,764,2,41
+2/4/20 22:00,Hunan,China,661,0,35
+2/4/20 22:00,Jiangxi,China,548,0,27
+2/4/20 22:00,Anhui,China,530,0,20
+2/4/20 22:00,Chongqing,China,366,2,14
+2/4/20 22:00,Jiangsu,China,341,0,13
+2/4/20 22:00,Sichuan,China,301,1,23
+2/4/20 22:00,Shandong,China,298,0,13
+2/4/20 22:00,Shanghai,China,233,1,12
+2/4/20 22:00,Beijing,China,228,1,23
+2/4/20 22:00,Fujian,China,194,0,3
+2/4/20 22:00,Heilongjiang,China,190,2,4
+2/4/20 22:00,Shaanxi,China,165,0,2
+2/4/20 22:00,Guangxi,China,150,0,10
+2/4/20 22:00,Hebei,China,135,1,4
+2/4/20 22:00,Yunnan,China,122,0,5
+2/4/20 22:00,Hainan,China,91,1,4
+2/4/20 22:00,Liaoning,China,81,0,2
+2/4/20 22:00,Shanxi,China,81,0,4
+2/4/20 22:00,Tianjin,China,67,0,2
+2/4/20 22:00,Guizhou,China,64,0,5
+2/4/20 22:00,Gansu,China,57,0,4
+2/4/20 22:00,Jilin,China,54,0,1
+2/4/20 22:00,Inner Mongolia,China,42,0,1
+2/4/20 22:00,Ningxia,China,34,0,1
+2/4/20 22:00,Xinjiang,China,32,0,0
+2/4/20 22:00,,Thailand,25,0,5
+2/4/20 22:00,,Singapore,24,0,0
+2/4/20 22:00,,Japan,22,0,1
+2/4/20 22:00,Hong Kong,Hong Kong,18,1,0
+2/4/20 22:00,Qinghai,China,17,0,0
+2/4/20 22:00,,South Korea,16,0,0
+2/4/20 22:00,,Germany,12,0,0
+2/4/20 22:00,Taiwan,Taiwan,11,0,0
+2/4/20 22:00,Macau,Macau,10,0,0
+2/4/20 22:00,,Malaysia,10,0,0
+2/4/20 22:00,,Vietnam,8,0,1
+2/4/20 22:00,,France,6,0,0
+2/4/20 22:00,,United Arab Emirates,5,0,0
+2/4/20 22:00,New South Wales,Australia,4,0,2
+2/4/20 22:00,Victoria,Australia,4,0,0
+2/4/20 22:00,Queensland,Australia,3,0,0
+2/4/20 22:00,,India,3,0,0
+2/4/20 22:00,South Australia,Australia,2,0,0
+2/4/20 22:00,"Toronto, ON",Canada,2,0,0
+2/4/20 22:00,,Italy,2,0,0
+2/4/20 22:00,,Philippines,2,1,0
+2/4/20 22:00,,Russia,2,0,0
+2/4/20 22:00,,UK,2,0,0
+2/4/20 22:00,"Chicago, IL",US,2,0,0
+2/4/20 22:00,"San Benito, CA",US,2,0,0
+2/4/20 22:00,"Santa Clara, CA",US,2,0,0
+2/4/20 22:00,,Belgium,1,0,0
+2/4/20 22:00,,Cambodia,1,0,0
+2/4/20 22:00,British Columbia,Canada,1,0,0
+2/4/20 22:00,"London, ON",Canada,1,0,0
+2/4/20 22:00,,Finland,1,0,0
+2/4/20 22:00,Tibet,China,1,0,0
+2/4/20 22:00,,Nepal,1,0,0
+2/4/20 22:00,,Spain,1,0,0
+2/4/20 22:00,,Sri Lanka,1,0,0
+2/4/20 22:00,,Sweden,1,0,0
+2/4/20 22:00,"Boston, MA",US,1,0,0
+2/4/20 22:00,"Los Angeles, CA",US,1,0,0
+2/4/20 22:00,"Orange, CA",US,1,0,0
+2/4/20 22:00,"Seattle, WA",US,1,0,0
+2/4/20 22:00,"Tempe, AZ",US,1,0,0
+2/5/20 12:20,Hubei,China,16678,479,538
+2/5/20 12:20,Guangdong,China,895,0,49
+2/5/20 12:20,Zhejiang,China,895,0,78
+2/5/20 12:20,Henan,China,764,2,47
+2/5/20 12:20,Hunan,China,661,0,54
+2/5/20 12:20,Jiangxi,China,548,0,27
+2/5/20 12:20,Anhui,China,530,0,23
+2/5/20 12:20,Chongqing,China,376,2,15
+2/5/20 12:20,Jiangsu,China,341,0,23
+2/5/20 12:20,Shandong,China,307,0,15
+2/5/20 12:20,Sichuan,China,301,1,24
+2/5/20 12:20,Beijing,China,253,1,24
+2/5/20 12:20,Shanghai,China,243,1,15
+2/5/20 12:20,Fujian,China,205,0,11
+2/5/20 12:20,Heilongjiang,China,190,2,7
+2/5/20 12:20,Shaanxi,China,165,0,6
+2/5/20 12:20,Guangxi,China,150,0,13
+2/5/20 12:20,Hebei,China,135,1,6
+2/5/20 12:20,Yunnan,China,124,0,5
+2/5/20 12:20,Hainan,China,99,1,5
+2/5/20 12:20,Liaoning,China,89,0,4
+2/5/20 12:20,Shanxi,China,81,0,5
+2/5/20 12:20,Tianjin,China,69,1,2
+2/5/20 12:20,Guizhou,China,64,1,9
+2/5/20 12:20,Gansu,China,62,0,6
+2/5/20 12:20,Jilin,China,54,0,2
+2/5/20 12:20,Inner Mongolia,China,42,0,3
+2/5/20 12:20,Ningxia,China,34,0,1
+2/5/20 12:20,Xinjiang,China,32,0,0
+2/5/20 12:20,,Singapore,28,0,0
+2/5/20 12:20,,Thailand,25,0,5
+2/5/20 12:20,,Japan,22,0,1
+2/5/20 12:20,Hong Kong,Hong Kong,21,1,0
+2/5/20 12:20,,South Korea,19,0,0
+2/5/20 12:20,Qinghai,China,17,0,3
+2/5/20 12:20,,Germany,12,0,0
+2/5/20 12:20,,Malaysia,12,0,0
+2/5/20 12:20,Taiwan,Taiwan,11,0,0
+2/5/20 12:20,Macau,Macau,10,0,0
+2/5/20 12:20,,Vietnam,8,0,1
+2/5/20 12:20,,France,6,0,0
+2/5/20 12:20,,United Arab Emirates,5,0,0
+2/5/20 12:20,New South Wales,Australia,4,0,2
+2/5/20 12:20,Victoria,Australia,4,0,0
+2/5/20 12:20,Queensland,Australia,3,0,0
+2/5/20 12:20,,India,3,0,0
+2/5/20 12:20,South Australia,Australia,2,0,0
+2/5/20 12:20,"Toronto, ON",Canada,2,0,0
+2/5/20 12:20,,Italy,2,0,0
+2/5/20 12:20,,Philippines,2,1,0
+2/5/20 12:20,,Russia,2,0,0
+2/5/20 12:20,,UK,2,0,0
+2/5/20 12:20,"Chicago, IL",US,2,0,0
+2/5/20 12:20,"San Benito, CA",US,2,0,0
+2/5/20 12:20,"Santa Clara, CA",US,2,0,0
+2/5/20 12:20,,Belgium,1,0,0
+2/5/20 12:20,,Cambodia,1,0,0
+2/5/20 12:20,British Columbia,Canada,1,0,0
+2/5/20 12:20,"London, ON",Canada,1,0,0
+2/5/20 12:20,,Finland,1,0,0
+2/5/20 12:20,Tibet,China,1,0,0
+2/5/20 12:20,,Nepal,1,0,0
+2/5/20 12:20,,Spain,1,0,0
+2/5/20 12:20,,Sri Lanka,1,0,0
+2/5/20 12:20,,Sweden,1,0,0
+2/5/20 12:20,"Boston, MA",US,1,0,0
+2/5/20 12:20,"Los Angeles, CA",US,1,0,0
+2/5/20 12:20,"Orange, CA",US,1,0,0
+2/5/20 12:20,"Seattle, WA",US,1,0,0
+2/5/20 12:20,"Tempe, AZ",US,1,0,0
+2/6/20 20:05,Hubei,China,22112,618,817
+2/6/20 20:05,Guangdong,China,970,0,69
+2/6/20 20:05,Zhejiang,China,954,0,94
+2/6/20 20:05,Henan,China,851,2,56
+2/6/20 20:05,Hunan,China,711,0,81
+2/6/20 20:05,Jiangxi,China,600,0,37
+2/6/20 20:05,Anhui,China,591,0,34
+2/6/20 20:05,Chongqing,China,400,2,24
+2/6/20 20:05,Jiangsu,China,373,0,34
+2/6/20 20:05,Shandong,China,347,0,27
+2/6/20 20:05,Sichuan,China,321,1,31
+2/6/20 20:05,Beijing,China,274,1,31
+2/6/20 20:05,Shanghai,China,257,1,25
+2/6/20 20:05,Heilongjiang,China,227,3,8
+2/6/20 20:05,Fujian,China,215,0,14
+2/6/20 20:05,Shaanxi,China,173,0,9
+2/6/20 20:05,Guangxi,China,168,0,14
+2/6/20 20:05,Hebei,China,157,1,13
+2/6/20 20:05,Yunnan,China,133,0,7
+2/6/20 20:05,Hainan,China,106,1,8
+2/6/20 20:05,Shanxi,China,96,0,12
+2/6/20 20:05,Liaoning,China,94,0,5
+2/6/20 20:05,Tianjin,China,78,1,2
+2/6/20 20:05,Guizhou,China,71,1,6
+2/6/20 20:05,Gansu,China,62,0,6
+2/6/20 20:05,Jilin,China,59,0,4
+2/6/20 20:05,Inner Mongolia,China,46,0,4
+2/6/20 20:05,,Japan,45,0,1
+2/6/20 20:05,Ningxia,China,40,0,1
+2/6/20 20:05,Xinjiang,China,36,0,0
+2/6/20 20:05,,Singapore,28,0,0
+2/6/20 20:05,,Thailand,25,0,5
+2/6/20 20:05,Hong Kong,Hong Kong,24,1,0
+2/6/20 20:05,,South Korea,23,0,0
+2/6/20 20:05,Qinghai,China,18,0,3
+2/6/20 20:05,Taiwan,Taiwan,16,0,1
+2/6/20 20:05,,Germany,12,0,0
+2/6/20 20:05,,Malaysia,12,0,0
+2/6/20 20:05,Macau,Macau,10,0,1
+2/6/20 20:05,,Vietnam,10,0,1
+2/6/20 20:05,,France,6,0,0
+2/6/20 20:05,,United Arab Emirates,5,0,0
+2/6/20 20:05,New South Wales,Australia,4,0,2
+2/6/20 20:05,Queensland,Australia,4,0,0
+2/6/20 20:05,Victoria,Australia,4,0,0
+2/6/20 20:05,,India,3,0,0
+2/6/20 20:05,South Australia,Australia,2,0,0
+2/6/20 20:05,British Columbia,Canada,2,0,0
+2/6/20 20:05,"Toronto, ON",Canada,2,0,0
+2/6/20 20:05,,Italy,2,0,0
+2/6/20 20:05,,Philippines,2,1,0
+2/6/20 20:05,,Russia,2,0,0
+2/6/20 20:05,,UK,2,0,0
+2/6/20 20:05,"Chicago, IL",US,2,0,0
+2/6/20 20:05,"San Benito, CA",US,2,0,0
+2/6/20 20:05,"Santa Clara, CA",US,2,0,0
+2/6/20 20:05,,Belgium,1,0,0
+2/6/20 20:05,,Cambodia,1,0,0
+2/6/20 20:05,"London, ON",Canada,1,0,0
+2/6/20 20:05,,Finland,1,0,0
+2/6/20 20:05,Tibet,China,1,0,0
+2/6/20 20:05,,Nepal,1,0,0
+2/6/20 20:05,,Spain,1,0,0
+2/6/20 20:05,,Sri Lanka,1,0,0
+2/6/20 20:05,,Sweden,1,0,0
+2/6/20 20:05,"Boston, MA",US,1,0,0
+2/6/20 20:05,"Los Angeles, CA",US,1,0,0
+2/6/20 20:05,"Madison, WI",US,1,0,0
+2/6/20 20:05,"Orange, CA",US,1,0,0
+2/6/20 20:05,"Seattle, WA",US,1,0,0
+2/6/20 20:05,"Tempe, AZ",US,1,0,0
+2/7/20 20:24,Hubei,China,22112,618,867
+2/7/20 20:24,Guangdong,China,1034,1,88
+2/7/20 20:24,Zhejiang,China,1006,0,123
+2/7/20 20:24,Henan,China,914,3,86
+2/7/20 20:24,Hunan,China,772,0,112
+2/7/20 20:24,Anhui,China,665,0,47
+2/7/20 20:24,Jiangxi,China,661,0,45
+2/7/20 20:24,Chongqing,China,415,2,31
+2/7/20 20:24,Jiangsu,China,408,0,43
+2/7/20 20:24,Shandong,China,386,0,37
+2/7/20 20:24,Sichuan,China,344,1,42
+2/7/20 20:24,Beijing,China,297,1,33
+2/7/20 20:24,Heilongjiang,China,277,3,12
+2/7/20 20:24,Shanghai,China,277,1,30
+2/7/20 20:24,Fujian,China,224,0,20
+2/7/20 20:24,Shaanxi,China,184,0,17
+2/7/20 20:24,Guangxi,China,172,0,17
+2/7/20 20:24,Hebei,China,172,1,22
+2/7/20 20:24,Yunnan,China,138,0,12
+2/7/20 20:24,Hainan,China,117,2,10
+2/7/20 20:24,Liaoning,China,99,0,7
+2/7/20 20:24,Shanxi,China,96,0,15
+2/7/20 20:24,Guizhou,China,81,1,6
+2/7/20 20:24,Tianjin,China,81,1,2
+2/7/20 20:24,Gansu,China,67,0,9
+2/7/20 20:24,Jilin,China,65,1,4
+2/7/20 20:24,Cruise Ship,Others,61,0,0
+2/7/20 20:24,Inner Mongolia,China,50,0,5
+2/7/20 20:24,Ningxia,China,43,0,5
+2/7/20 20:24,Xinjiang,China,39,0,0
+2/7/20 20:24,,Singapore,30,0,0
+2/7/20 20:24,Hong Kong,Hong Kong,25,1,0
+2/7/20 20:24,,Japan,25,0,1
+2/7/20 20:24,,Thailand,25,0,5
+2/7/20 20:24,,South Korea,24,0,1
+2/7/20 20:24,Qinghai,China,18,0,3
+2/7/20 20:24,Taiwan,Taiwan,16,0,1
+2/7/20 20:24,,Germany,13,0,0
+2/7/20 20:24,,Malaysia,12,0,1
+2/7/20 20:24,Macau,Macau,10,0,1
+2/7/20 20:24,,Vietnam,10,0,1
+2/7/20 20:24,,France,6,0,0
+2/7/20 20:24,Queensland,Australia,5,0,0
+2/7/20 20:24,,United Arab Emirates,5,0,0
+2/7/20 20:24,New South Wales,Australia,4,0,2
+2/7/20 20:24,Victoria,Australia,4,0,0
+2/7/20 20:24,British Columbia,Canada,4,0,0
+2/7/20 20:24,,India,3,0,0
+2/7/20 20:24,,Italy,3,0,0
+2/7/20 20:24,,Philippines,3,1,0
+2/7/20 20:24,,UK,3,0,0
+2/7/20 20:24,South Australia,Australia,2,0,0
+2/7/20 20:24,"Toronto, ON",Canada,2,0,0
+2/7/20 20:24,,Russia,2,0,0
+2/7/20 20:24,"Chicago, IL",US,2,0,0
+2/7/20 20:24,"San Benito, CA",US,2,0,0
+2/7/20 20:24,"Santa Clara, CA",US,2,0,0
+2/7/20 20:24,,Belgium,1,0,0
+2/7/20 20:24,,Cambodia,1,0,0
+2/7/20 20:24,"London, ON",Canada,1,0,0
+2/7/20 20:24,,Finland,1,0,0
+2/7/20 20:24,Tibet,China,1,0,0
+2/7/20 20:24,,Nepal,1,0,0
+2/7/20 20:24,,Spain,1,0,0
+2/7/20 20:24,,Sri Lanka,1,0,0
+2/7/20 20:24,,Sweden,1,0,0
+2/7/20 20:24,"Boston, MA",US,1,0,0
+2/7/20 20:24,"Los Angeles, CA",US,1,0,0
+2/7/20 20:24,"Madison, WI",US,1,0,0
+2/7/20 20:24,"Orange, CA",US,1,0,0
+2/7/20 20:24,"Seattle, WA",US,1,0,0
+2/7/20 20:24,"Tempe, AZ",US,1,0,0
+2/8/20 23:04,Hubei,China,27100,780,1440
+2/8/20 23:04,Guangdong,China,1120,1,125
+2/8/20 23:04,Zhejiang,China,1075,0,185
+2/8/20 23:04,Henan,China,1033,6,131
+2/8/20 23:04,Hunan,China,838,1,159
+2/8/20 23:04,Anhui,China,779,1,59
+2/8/20 23:04,Jiangxi,China,740,0,72
+2/8/20 23:04,Jiangsu,China,468,0,58
+2/8/20 23:04,Chongqing,China,446,2,39
+2/8/20 23:04,Shandong,China,435,1,50
+2/8/20 23:04,Sichuan,China,386,1,60
+2/8/20 23:04,Beijing,China,326,2,37
+2/8/20 23:04,Heilongjiang,China,307,6,13
+2/8/20 23:04,Shanghai,China,292,1,41
+2/8/20 23:04,Fujian,China,250,0,26
+2/8/20 23:04,Shaanxi,China,208,0,25
+2/8/20 23:04,Hebei,China,206,2,30
+2/8/20 23:04,Guangxi,China,195,1,18
+2/8/20 23:04,Yunnan,China,140,0,17
+2/8/20 23:04,Hainan,China,128,2,15
+2/8/20 23:04,Shanxi,China,115,0,21
+2/8/20 23:04,Liaoning,China,105,0,8
+2/8/20 23:04,Guizhou,China,96,1,7
+2/8/20 23:04,Tianjin,China,90,1,4
+2/8/20 23:04,Gansu,China,79,1,12
+2/8/20 23:04,Jilin,China,78,1,5
+2/8/20 23:04,Cruise Ship,Others,61,0,0
+2/8/20 23:04,Inner Mongolia,China,54,0,5
+2/8/20 23:04,Ningxia,China,45,0,13
+2/8/20 23:04,Xinjiang,China,45,0,0
+2/8/20 23:04,,Singapore,40,0,2
+2/8/20 23:04,,Thailand,32,0,10
+2/8/20 23:04,Hong Kong,Hong Kong,26,1,0
+2/8/20 23:04,,Japan,25,0,1
+2/8/20 23:04,,South Korea,25,0,3
+2/8/20 23:04,Qinghai,China,18,0,3
+2/8/20 23:04,Taiwan,Taiwan,17,0,1
+2/8/20 23:04,,Malaysia,16,0,1
+2/8/20 23:04,,Germany,13,0,0
+2/8/20 23:04,,Vietnam,13,0,1
+2/8/20 23:04,,France,11,0,0
+2/8/20 23:04,Macau,Macau,10,0,1
+2/8/20 23:04,,United Arab Emirates,7,0,0
+2/8/20 23:04,Queensland,Australia,5,0,0
+2/8/20 23:04,New South Wales,Australia,4,0,2
+2/8/20 23:04,Victoria,Australia,4,0,0
+2/8/20 23:04,British Columbia,Canada,4,0,0
+2/8/20 23:04,,India,3,0,0
+2/8/20 23:04,,Italy,3,0,0
+2/8/20 23:04,,Philippines,3,1,0
+2/8/20 23:04,,UK,3,0,0
+2/8/20 23:04,South Australia,Australia,2,0,0
+2/8/20 23:04,"Toronto, ON",Canada,2,0,0
+2/8/20 23:04,,Russia,2,0,0
+2/8/20 23:04,"Chicago, IL",US,2,0,0
+2/8/20 23:04,"San Benito, CA",US,2,0,0
+2/8/20 23:04,"Santa Clara, CA",US,2,0,0
+2/8/20 23:04,,Belgium,1,0,0
+2/8/20 23:04,,Cambodia,1,0,0
+2/8/20 23:04,"London, ON",Canada,1,0,0
+2/8/20 23:04,,Finland,1,0,0
+2/8/20 23:04,Tibet,China,1,0,0
+2/8/20 23:04,,Nepal,1,0,0
+2/8/20 23:04,,Spain,1,0,0
+2/8/20 23:04,,Sri Lanka,1,0,1
+2/8/20 23:04,,Sweden,1,0,0
+2/8/20 23:04,"Boston, MA",US,1,0,0
+2/8/20 23:04,"Los Angeles, CA",US,1,0,0
+2/8/20 23:04,"Madison, WI",US,1,0,0
+2/8/20 23:04,"Orange, CA",US,1,0,0
+2/8/20 23:04,"Seattle, WA",US,1,0,0
+2/8/20 23:04,"Tempe, AZ",US,1,0,0
+2/9/20 23:20,Hubei,China,29631,871,1795
+2/9/20 23:20,Guangdong,China,1151,1,147
+2/9/20 23:20,Zhejiang,China,1092,0,201
+2/9/20 23:20,Henan,China,1073,6,169
+2/9/20 23:20,Hunan,China,879,1,186
+2/9/20 23:20,Anhui,China,830,3,73
+2/9/20 23:20,Jiangxi,China,771,1,102
+2/9/20 23:20,Jiangsu,China,492,0,72
+2/9/20 23:20,Chongqing,China,468,2,51
+2/9/20 23:20,Shandong,China,459,1,63
+2/9/20 23:20,Sichuan,China,405,1,76
+2/9/20 23:20,Beijing,China,337,2,44
+2/9/20 23:20,Heilongjiang,China,331,7,15
+2/9/20 23:20,Shanghai,China,295,1,44
+2/9/20 23:20,Fujian,China,261,0,35
+2/9/20 23:20,Hebei,China,218,2,35
+2/9/20 23:20,Shaanxi,China,213,0,26
+2/9/20 23:20,Guangxi,China,210,1,18
+2/9/20 23:20,Yunnan,China,141,0,18
+2/9/20 23:20,Hainan,China,136,3,19
+2/9/20 23:20,Shanxi,China,119,0,25
+2/9/20 23:20,Guizhou,China,109,1,7
+2/9/20 23:20,Liaoning,China,107,0,12
+2/9/20 23:20,Tianjin,China,94,1,4
+2/9/20 23:20,Gansu,China,83,2,16
+2/9/20 23:20,Jilin,China,80,1,12
+2/9/20 23:20,Diamond Princess cruise ship,Others,64,0,0
+2/9/20 23:20,Inner Mongolia,China,58,0,5
+2/9/20 23:20,Ningxia,China,49,0,13
+2/9/20 23:20,Xinjiang,China,49,0,0
+2/9/20 23:20,,Singapore,43,0,2
+2/9/20 23:20,Hong Kong,Hong Kong,36,1,0
+2/9/20 23:20,,Thailand,32,0,10
+2/9/20 23:20,,South Korea,27,0,3
+2/9/20 23:20,,Japan,26,0,1
+2/9/20 23:20,Qinghai,China,18,0,3
+2/9/20 23:20,,Malaysia,18,0,1
+2/9/20 23:20,Taiwan,Taiwan,18,0,1
+2/9/20 23:20,,Germany,14,0,0
+2/9/20 23:20,,Vietnam,14,0,1
+2/9/20 23:20,,France,11,0,0
+2/9/20 23:20,Macau,Macau,10,0,1
+2/9/20 23:20,,United Arab Emirates,7,0,0
+2/9/20 23:20,Queensland,Australia,5,0,0
+2/9/20 23:20,New South Wales,Australia,4,0,2
+2/9/20 23:20,Victoria,Australia,4,0,0
+2/9/20 23:20,British Columbia,Canada,4,0,0
+2/9/20 23:20,,India,3,0,0
+2/9/20 23:20,,Italy,3,0,0
+2/9/20 23:20,,Philippines,3,1,0
+2/9/20 23:20,,UK,3,0,0
+2/9/20 23:20,South Australia,Australia,2,0,0
+2/9/20 23:20,"Toronto, ON",Canada,2,0,0
+2/9/20 23:20,,Russia,2,0,0
+2/9/20 23:20,,Spain,2,0,0
+2/9/20 23:20,"Chicago, IL",US,2,0,2
+2/9/20 23:20,"San Benito, CA",US,2,0,0
+2/9/20 23:20,"Santa Clara, CA",US,2,0,0
+2/9/20 23:20,,Belgium,1,0,0
+2/9/20 23:20,,Cambodia,1,0,0
+2/9/20 23:20,"London, ON",Canada,1,0,0
+2/9/20 23:20,,Finland,1,0,0
+2/9/20 23:20,Tibet,China,1,0,0
+2/9/20 23:20,,Nepal,1,0,0
+2/9/20 23:20,,Sri Lanka,1,0,1
+2/9/20 23:20,,Sweden,1,0,0
+2/9/20 23:20,"Boston, MA",US,1,0,0
+2/9/20 23:20,"Los Angeles, CA",US,1,0,0
+2/9/20 23:20,"Madison, WI",US,1,0,0
+2/9/20 23:20,"Orange, CA",US,1,0,0
+2/9/20 23:20,"Seattle, WA",US,1,0,1
+2/9/20 23:20,"Tempe, AZ",US,1,0,0
+2/10/20 19:30,Hubei,China,31728,974,2222
+2/10/20 19:30,Guangdong,China,1159,1,167
+2/10/20 19:30,Zhejiang,China,1092,0,242
+2/10/20 19:30,Henan,China,1073,6,191
+2/10/20 19:30,Hunan,China,879,1,208
+2/10/20 19:30,Anhui,China,830,3,88
+2/10/20 19:30,Jiangxi,China,771,1,105
+2/10/20 19:30,Jiangsu,China,492,0,81
+2/10/20 19:30,Chongqing,China,486,2,66
+2/10/20 19:30,Shandong,China,466,1,66
+2/10/20 19:30,Sichuan,China,405,1,80
+2/10/20 19:30,Beijing,China,337,2,44
+2/10/20 19:30,Heilongjiang,China,331,7,30
+2/10/20 19:30,Shanghai,China,299,1,48
+2/10/20 19:30,Fujian,China,261,0,39
+2/10/20 19:30,Hebei,China,218,2,41
+2/10/20 19:30,Shaanxi,China,213,0,30
+2/10/20 19:30,Guangxi,China,210,1,24
+2/10/20 19:30,Yunnan,China,149,0,19
+2/10/20 19:30,Hainan,China,138,3,19
+2/10/20 19:30,Diamond Princess cruise ship,Others,135,0,0
+2/10/20 19:30,Shanxi,China,119,0,25
+2/10/20 19:30,Guizhou,China,109,1,10
+2/10/20 19:30,Liaoning,China,108,0,13
+2/10/20 19:30,Tianjin,China,95,1,8
+2/10/20 19:30,Gansu,China,86,2,21
+2/10/20 19:30,Jilin,China,81,1,13
+2/10/20 19:30,Inner Mongolia,China,58,0,5
+2/10/20 19:30,Ningxia,China,49,0,13
+2/10/20 19:30,Xinjiang,China,49,0,0
+2/10/20 19:30,,Singapore,45,0,2
+2/10/20 19:30,Hong Kong,Hong Kong,38,1,0
+2/10/20 19:30,,Thailand,32,0,10
+2/10/20 19:30,,South Korea,27,0,3
+2/10/20 19:30,,Japan,26,0,4
+2/10/20 19:30,Qinghai,China,18,0,3
+2/10/20 19:30,,Malaysia,18,0,1
+2/10/20 19:30,Taiwan,Taiwan,18,0,1
+2/10/20 19:30,,Germany,14,0,0
+2/10/20 19:30,,Vietnam,14,0,1
+2/10/20 19:30,,France,11,0,0
+2/10/20 19:30,Macau,Macau,10,0,1
+2/10/20 19:30,,UK,8,0,0
+2/10/20 19:30,,United Arab Emirates,8,0,0
+2/10/20 19:30,Queensland,Australia,5,0,0
+2/10/20 19:30,New South Wales,Australia,4,0,2
+2/10/20 19:30,Victoria,Australia,4,0,0
+2/10/20 19:30,British Columbia,Canada,4,0,0
+2/10/20 19:30,,India,3,0,0
+2/10/20 19:30,,Italy,3,0,0
+2/10/20 19:30,,Philippines,3,1,0
+2/10/20 19:30,South Australia,Australia,2,0,0
+2/10/20 19:30,"Toronto, ON",Canada,2,0,0
+2/10/20 19:30,,Russia,2,0,0
+2/10/20 19:30,,Spain,2,0,0
+2/10/20 19:30,"Chicago, IL",US,2,0,2
+2/10/20 19:30,"San Benito, CA",US,2,0,0
+2/10/20 19:30,"Santa Clara, CA",US,2,0,0
+2/10/20 19:30,,Belgium,1,0,0
+2/10/20 19:30,,Cambodia,1,0,0
+2/10/20 19:30,"London, ON",Canada,1,0,0
+2/10/20 19:30,,Finland,1,0,0
+2/10/20 19:30,Tibet,China,1,0,0
+2/10/20 19:30,,Nepal,1,0,0
+2/10/20 19:30,,Sri Lanka,1,0,1
+2/10/20 19:30,,Sweden,1,0,0
+2/10/20 19:30,"Boston, MA",US,1,0,0
+2/10/20 19:30,"Los Angeles, CA",US,1,0,0
+2/10/20 19:30,"Madison, WI",US,1,0,0
+2/10/20 19:30,"Orange, CA",US,1,0,0
+2/10/20 19:30,"Seattle, WA",US,1,0,1
+2/10/20 19:30,"Tempe, AZ",US,1,0,0
+2/11/20 20:44,Hubei,China,33366,1068,2639
+2/11/20 20:44,Guangdong,China,1219,1,241
+2/11/20 20:44,Henan,China,1135,8,231
+2/11/20 20:44,Zhejiang,China,1131,0,279
+2/11/20 20:44,Hunan,China,946,2,263
+2/11/20 20:44,Anhui,China,889,4,108
+2/11/20 20:44,Jiangxi,China,844,1,152
+2/11/20 20:44,Jiangsu,China,543,0,94
+2/11/20 20:44,Chongqing,China,505,3,79
+2/11/20 20:44,Shandong,China,497,1,80
+2/11/20 20:44,Sichuan,China,436,1,85
+2/11/20 20:44,Heilongjiang,China,378,8,28
+2/11/20 20:44,Beijing,China,342,3,48
+2/11/20 20:44,Shanghai,China,306,1,53
+2/11/20 20:44,Fujian,China,272,0,46
+2/11/20 20:44,Hebei,China,251,2,48
+2/11/20 20:44,Guangxi,China,222,1,31
+2/11/20 20:44,Shaanxi,China,219,0,32
+2/11/20 20:44,Yunnan,China,154,0,20
+2/11/20 20:44,Hainan,China,151,3,20
+2/11/20 20:44,Diamond Princess cruise ship,Others,135,0,0
+2/11/20 20:44,Guizhou,China,131,1,17
+2/11/20 20:44,Shanxi,China,124,0,30
+2/11/20 20:44,Liaoning,China,116,0,19
+2/11/20 20:44,Tianjin,China,106,2,10
+2/11/20 20:44,Gansu,China,86,2,24
+2/11/20 20:44,Jilin,China,83,1,18
+2/11/20 20:44,Xinjiang,China,59,0,3
+2/11/20 20:44,Inner Mongolia,China,58,0,5
+2/11/20 20:44,Ningxia,China,53,0,22
+2/11/20 20:44,Hong Kong,Hong Kong,49,1,0
+2/11/20 20:44,,Singapore,47,0,9
+2/11/20 20:44,,Thailand,33,0,10
+2/11/20 20:44,,South Korea,28,0,4
+2/11/20 20:44,,Japan,26,0,9
+2/11/20 20:44,Qinghai,China,18,0,5
+2/11/20 20:44,,Malaysia,18,0,3
+2/11/20 20:44,Taiwan,Taiwan,18,0,1
+2/11/20 20:44,,Germany,16,0,0
+2/11/20 20:44,,Vietnam,15,0,6
+2/11/20 20:44,,France,11,0,0
+2/11/20 20:44,Macau,Macau,10,0,1
+2/11/20 20:44,,UK,8,0,0
+2/11/20 20:44,,United Arab Emirates,8,0,1
+2/11/20 20:44,Queensland,Australia,5,0,0
+2/11/20 20:44,New South Wales,Australia,4,0,2
+2/11/20 20:44,Victoria,Australia,4,0,0
+2/11/20 20:44,British Columbia,Canada,4,0,0
+2/11/20 20:44,,India,3,0,0
+2/11/20 20:44,,Italy,3,0,0
+2/11/20 20:44,,Philippines,3,1,0
+2/11/20 20:44,South Australia,Australia,2,0,0
+2/11/20 20:44,"Toronto, ON",Canada,2,0,0
+2/11/20 20:44,,Russia,2,0,0
+2/11/20 20:44,,Spain,2,0,0
+2/11/20 20:44,"Chicago, IL",US,2,0,2
+2/11/20 20:44,"San Benito, CA",US,2,0,0
+2/11/20 20:44,"Santa Clara, CA",US,2,0,0
+2/11/20 20:44,,Belgium,1,0,0
+2/11/20 20:44,,Cambodia,1,0,0
+2/11/20 20:44,"London, ON",Canada,1,0,0
+2/11/20 20:44,,Finland,1,0,1
+2/11/20 20:44,Tibet,China,1,0,0
+2/11/20 20:44,,Nepal,1,0,0
+2/11/20 20:44,,Sri Lanka,1,0,1
+2/11/20 20:44,,Sweden,1,0,0
+2/11/20 20:44,"Boston, MA",US,1,0,0
+2/11/20 20:44,"Los Angeles, CA",US,1,0,0
+2/11/20 20:44,"Madison, WI",US,1,0,0
+2/11/20 20:44,"Orange, CA",US,1,0,0
+2/11/20 20:44,"San Diego County, CA",US,1,0,0
+2/11/20 20:44,"Seattle, WA",US,1,0,1
+2/11/20 20:44,"Tempe, AZ",US,1,0,0
+2/12/20 22:00,Hubei,China,48206,1310,3441
+2/12/20 22:00,Guangdong,China,1241,2,284
+2/12/20 22:00,Henan,China,1169,10,258
+2/12/20 22:00,Zhejiang,China,1145,0,327
+2/12/20 22:00,Hunan,China,968,2,312
+2/12/20 22:00,Anhui,China,910,5,128
+2/12/20 22:00,Jiangxi,China,872,1,170
+2/12/20 22:00,Jiangsu,China,570,0,131
+2/12/20 22:00,Chongqing,China,518,3,102
+2/12/20 22:00,Shandong,China,506,2,98
+2/12/20 22:00,Sichuan,China,451,1,93
+2/12/20 22:00,Heilongjiang,China,395,9,31
+2/12/20 22:00,Beijing,China,366,3,68
+2/12/20 22:00,Shanghai,China,313,1,57
+2/12/20 22:00,Fujian,China,279,0,54
+2/12/20 22:00,Hebei,China,265,3,55
+2/12/20 22:00,Shaanxi,China,229,0,42
+2/12/20 22:00,Guangxi,China,222,2,33
+2/12/20 22:00,Diamond Princess cruise ship,Others,175,0,0
+2/12/20 22:00,Hainan,China,157,4,27
+2/12/20 22:00,Yunnan,China,155,0,23
+2/12/20 22:00,Guizhou,China,135,1,20
+2/12/20 22:00,Shanxi,China,126,0,33
+2/12/20 22:00,Liaoning,China,116,1,21
+2/12/20 22:00,Tianjin,China,113,2,11
+2/12/20 22:00,Gansu,China,87,2,31
+2/12/20 22:00,Jilin,China,84,1,22
+2/12/20 22:00,Ningxia,China,64,0,24
+2/12/20 22:00,Xinjiang,China,63,1,3
+2/12/20 22:00,Inner Mongolia,China,61,0,6
+2/12/20 22:00,Hong Kong,Hong Kong,50,1,1
+2/12/20 22:00,,Singapore,50,0,15
+2/12/20 22:00,,Thailand,33,0,10
+2/12/20 22:00,,Japan,28,0,9
+2/12/20 22:00,,South Korea,28,0,7
+2/12/20 22:00,Qinghai,China,18,0,9
+2/12/20 22:00,,Malaysia,18,0,3
+2/12/20 22:00,Taiwan,Taiwan,18,0,1
+2/12/20 22:00,,Germany,16,0,0
+2/12/20 22:00,,Vietnam,15,0,6
+2/12/20 22:00,,France,11,0,2
+2/12/20 22:00,Macau,Macau,10,0,2
+2/12/20 22:00,,UK,9,0,1
+2/12/20 22:00,,United Arab Emirates,8,0,1
+2/12/20 22:00,Queensland,Australia,5,0,0
+2/12/20 22:00,New South Wales,Australia,4,0,2
+2/12/20 22:00,Victoria,Australia,4,0,0
+2/12/20 22:00,British Columbia,Canada,4,0,0
+2/12/20 22:00,,India,3,0,0
+2/12/20 22:00,,Italy,3,0,0
+2/12/20 22:00,,Philippines,3,1,1
+2/12/20 22:00,South Australia,Australia,2,0,0
+2/12/20 22:00,"Toronto, ON",Canada,2,0,0
+2/12/20 22:00,,Russia,2,0,2
+2/12/20 22:00,,Spain,2,0,0
+2/12/20 22:00,"Chicago, IL",US,2,0,2
+2/12/20 22:00,"San Benito, CA",US,2,0,0
+2/12/20 22:00,"Santa Clara, CA",US,2,0,0
+2/12/20 22:00,,Belgium,1,0,0
+2/12/20 22:00,,Cambodia,1,0,1
+2/12/20 22:00,"London, ON",Canada,1,0,1
+2/12/20 22:00,,Finland,1,0,1
+2/12/20 22:00,Tibet,China,1,0,1
+2/12/20 22:00,,Nepal,1,0,1
+2/12/20 22:00,,Sri Lanka,1,0,1
+2/12/20 22:00,,Sweden,1,0,0
+2/12/20 22:00,"Boston, MA",US,1,0,0
+2/12/20 22:00,"Los Angeles, CA",US,1,0,0
+2/12/20 22:00,"Madison, WI",US,1,0,0
+2/12/20 22:00,"Orange, CA",US,1,0,0
+2/12/20 22:00,"San Diego County, CA",US,1,0,0
+2/12/20 22:00,"Seattle, WA",US,1,0,1
+2/12/20 22:00,"Tempe, AZ",US,1,0,0
+2/13/20 21:15,Hubei,China,51986,1426,4131
+2/13/20 21:15,Guangdong,China,1261,2,332
+2/13/20 21:15,Henan,China,1184,11,313
+2/13/20 21:15,Zhejiang,China,1155,0,367
+2/13/20 21:15,Hunan,China,988,2,352
+2/13/20 21:15,Anhui,China,934,6,166
+2/13/20 21:15,Jiangxi,China,900,1,187
+2/13/20 21:15,Jiangsu,China,593,0,137
+2/13/20 21:15,Chongqing,China,529,4,128
+2/13/20 21:15,Shandong,China,519,2,111
+2/13/20 21:15,Sichuan,China,463,1,105
+2/13/20 21:15,Heilongjiang,China,418,11,37
+2/13/20 21:15,Beijing,China,366,3,69
+2/13/20 21:15,Shanghai,China,318,1,62
+2/13/20 21:15,Hebei,China,283,3,69
+2/13/20 21:15,Fujian,China,281,0,59
+2/13/20 21:15,Shaanxi,China,229,0,46
+2/13/20 21:15,Guangxi,China,226,2,35
+2/13/20 21:15,Diamond Princess cruise ship,Others,218,0,0
+2/13/20 21:15,Hainan,China,158,4,30
+2/13/20 21:15,Yunnan,China,156,0,27
+2/13/20 21:15,Guizhou,China,140,1,28
+2/13/20 21:15,Shanxi,China,126,0,36
+2/13/20 21:15,Tianjin,China,119,3,21
+2/13/20 21:15,Liaoning,China,117,1,22
+2/13/20 21:15,Gansu,China,90,2,39
+2/13/20 21:15,Jilin,China,86,1,25
+2/13/20 21:15,Ningxia,China,67,0,24
+2/13/20 21:15,Inner Mongolia,China,65,0,6
+2/13/20 21:15,Xinjiang,China,65,1,6
+2/13/20 21:15,,Singapore,58,0,15
+2/13/20 21:15,Hong Kong,Hong Kong,53,1,1
+2/13/20 21:15,,Thailand,33,0,12
+2/13/20 21:15,,Japan,28,1,9
+2/13/20 21:15,,South Korea,28,0,7
+2/13/20 21:15,,Malaysia,19,0,3
+2/13/20 21:15,Qinghai,China,18,0,11
+2/13/20 21:15,Taiwan,Taiwan,18,0,1
+2/13/20 21:15,,Germany,16,0,1
+2/13/20 21:15,,Vietnam,16,0,7
+2/13/20 21:15,,France,11,0,2
+2/13/20 21:15,Macau,Macau,10,0,3
+2/13/20 21:15,,UK,9,0,1
+2/13/20 21:15,,United Arab Emirates,8,0,1
+2/13/20 21:15,Queensland,Australia,5,0,0
+2/13/20 21:15,New South Wales,Australia,4,0,4
+2/13/20 21:15,Victoria,Australia,4,0,4
+2/13/20 21:15,British Columbia,Canada,4,0,0
+2/13/20 21:15,,India,3,0,0
+2/13/20 21:15,,Italy,3,0,0
+2/13/20 21:15,,Philippines,3,1,1
+2/13/20 21:15,South Australia,Australia,2,0,0
+2/13/20 21:15,"Toronto, ON",Canada,2,0,0
+2/13/20 21:15,,Russia,2,0,2
+2/13/20 21:15,,Spain,2,0,0
+2/13/20 21:15,"Chicago, IL",US,2,0,2
+2/13/20 21:15,"San Benito, CA",US,2,0,0
+2/13/20 21:15,"San Diego County, CA",US,2,0,0
+2/13/20 21:15,"Santa Clara, CA",US,2,0,0
+2/13/20 21:15,,Belgium,1,0,0
+2/13/20 21:15,,Cambodia,1,0,1
+2/13/20 21:15,"London, ON",Canada,1,0,1
+2/13/20 21:15,,Finland,1,0,1
+2/13/20 21:15,Tibet,China,1,0,1
+2/13/20 21:15,,Nepal,1,0,1
+2/13/20 21:15,,Sri Lanka,1,0,1
+2/13/20 21:15,,Sweden,1,0,0
+2/13/20 21:15,"Boston, MA",US,1,0,0
+2/13/20 21:15,"Los Angeles, CA",US,1,0,0
+2/13/20 21:15,"Madison, WI",US,1,0,0
+2/13/20 21:15,"Orange, CA",US,1,0,0
+2/13/20 21:15,"San Antonio, TX",US,1,0,0
+2/13/20 21:15,"Seattle, WA",US,1,0,1
+2/13/20 21:15,"Tempe, AZ",US,1,0,0
+2/14/20 22:00,Hubei,China,54406,1457,4774
+2/14/20 22:00,Guangdong,China,1261,2,362
+2/14/20 22:00,Henan,China,1184,11,357
+2/14/20 22:00,Zhejiang,China,1155,0,403
+2/14/20 22:00,Hunan,China,988,2,364
+2/14/20 22:00,Anhui,China,934,6,193
+2/14/20 22:00,Jiangxi,China,900,1,187
+2/14/20 22:00,Jiangsu,China,593,0,157
+2/14/20 22:00,Chongqing,China,537,5,152
+2/14/20 22:00,Shandong,China,523,2,136
+2/14/20 22:00,Sichuan,China,463,1,114
+2/14/20 22:00,Heilongjiang,China,419,11,47
+2/14/20 22:00,Beijing,China,372,3,80
+2/14/20 22:00,Shanghai,China,318,1,90
+2/14/20 22:00,Hebei,China,283,3,87
+2/14/20 22:00,Fujian,China,281,0,63
+2/14/20 22:00,Shaanxi,China,230,0,54
+2/14/20 22:00,Guangxi,China,226,2,36
+2/14/20 22:00,Diamond Princess cruise ship,Others,218,0,0
+2/14/20 22:00,Yunnan,China,162,0,36
+2/14/20 22:00,Hainan,China,159,4,43
+2/14/20 22:00,Guizhou,China,140,1,28
+2/14/20 22:00,Shanxi,China,127,0,38
+2/14/20 22:00,Tianjin,China,120,3,31
+2/14/20 22:00,Liaoning,China,119,1,29
+2/14/20 22:00,Gansu,China,90,2,39
+2/14/20 22:00,Jilin,China,86,1,25
+2/14/20 22:00,Ningxia,China,67,0,24
+2/14/20 22:00,,Singapore,67,0,17
+2/14/20 22:00,Inner Mongolia,China,65,0,6
+2/14/20 22:00,Xinjiang,China,65,1,6
+2/14/20 22:00,Hong Kong,Hong Kong,56,1,1
+2/14/20 22:00,,Thailand,33,0,12
+2/14/20 22:00,,Japan,29,1,9
+2/14/20 22:00,,South Korea,28,0,7
+2/14/20 22:00,,Malaysia,19,0,3
+2/14/20 22:00,Qinghai,China,18,0,11
+2/14/20 22:00,Taiwan,Taiwan,18,0,2
+2/14/20 22:00,,Germany,16,0,1
+2/14/20 22:00,,Vietnam,16,0,7
+2/14/20 22:00,,France,11,0,2
+2/14/20 22:00,Macau,Macau,10,0,3
+2/14/20 22:00,,UK,9,0,1
+2/14/20 22:00,,United Arab Emirates,8,0,1
+2/14/20 22:00,Queensland,Australia,5,0,0
+2/14/20 22:00,New South Wales,Australia,4,0,4
+2/14/20 22:00,Victoria,Australia,4,0,4
+2/14/20 22:00,British Columbia,Canada,4,0,0
+2/14/20 22:00,,India,3,0,0
+2/14/20 22:00,,Italy,3,0,0
+2/14/20 22:00,,Philippines,3,1,1
+2/14/20 22:00,South Australia,Australia,2,0,0
+2/14/20 22:00,"Toronto, ON",Canada,2,0,0
+2/14/20 22:00,,Russia,2,0,2
+2/14/20 22:00,,Spain,2,0,0
+2/14/20 22:00,"Chicago, IL",US,2,0,2
+2/14/20 22:00,"San Benito, CA",US,2,0,0
+2/14/20 22:00,"San Diego County, CA",US,2,0,0
+2/14/20 22:00,"Santa Clara, CA",US,2,0,0
+2/14/20 22:00,,Belgium,1,0,0
+2/14/20 22:00,,Cambodia,1,0,1
+2/14/20 22:00,"London, ON",Canada,1,0,1
+2/14/20 22:00,,Egypt,1,0,0
+2/14/20 22:00,,Finland,1,0,1
+2/14/20 22:00,Tibet,China,1,0,1
+2/14/20 22:00,,Nepal,1,0,1
+2/14/20 22:00,,Sri Lanka,1,0,1
+2/14/20 22:00,,Sweden,1,0,0
+2/14/20 22:00,"Boston, MA",US,1,0,0
+2/14/20 22:00,"Los Angeles, CA",US,1,0,0
+2/14/20 22:00,"Madison, WI",US,1,0,0
+2/14/20 22:00,"Orange, CA",US,1,0,0
+2/14/20 22:00,"San Antonio, TX",US,1,0,0
+2/14/20 22:00,"Seattle, WA",US,1,0,1
+2/14/20 22:00,"Tempe, AZ",US,1,0,0
+2/15/20 22:00,Hubei,China,56249,1596,5623
+2/15/20 22:00,Guangdong,China,1294,2,410
+2/15/20 22:00,Henan,China,1212,13,391
+2/15/20 22:00,Zhejiang,China,1162,0,428
+2/15/20 22:00,Hunan,China,1001,2,425
+2/15/20 22:00,Anhui,China,950,6,221
+2/15/20 22:00,Jiangxi,China,913,1,210
+2/15/20 22:00,Jiangsu,China,604,0,186
+2/15/20 22:00,Chongqing,China,544,5,184
+2/15/20 22:00,Shandong,China,532,2,156
+2/15/20 22:00,Sichuan,China,470,1,119
+2/15/20 22:00,Heilongjiang,China,425,11,68
+2/15/20 22:00,Beijing,China,375,4,98
+2/15/20 22:00,Shanghai,China,326,1,124
+2/15/20 22:00,Hebei,China,291,3,101
+2/15/20 22:00,Fujian,China,285,0,71
+2/15/20 22:00,Diamond Princess cruise ship,Others,285,0,0
+2/15/20 22:00,Guangxi,China,235,2,44
+2/15/20 22:00,Shaanxi,China,232,0,60
+2/15/20 22:00,Yunnan,China,168,0,42
+2/15/20 22:00,Hainan,China,162,4,39
+2/15/20 22:00,Guizhou,China,143,1,41
+2/15/20 22:00,Shanxi,China,128,0,46
+2/15/20 22:00,Tianjin,China,122,3,37
+2/15/20 22:00,Liaoning,China,119,1,31
+2/15/20 22:00,Gansu,China,90,2,49
+2/15/20 22:00,Jilin,China,88,1,26
+2/15/20 22:00,,Singapore,72,0,18
+2/15/20 22:00,Ningxia,China,70,0,33
+2/15/20 22:00,Xinjiang,China,70,1,10
+2/15/20 22:00,Inner Mongolia,China,68,0,7
+2/15/20 22:00,Hong Kong,Hong Kong,56,1,1
+2/15/20 22:00,,Japan,43,1,12
+2/15/20 22:00,,Thailand,33,0,12
+2/15/20 22:00,,South Korea,28,0,9
+2/15/20 22:00,,Malaysia,22,0,7
+2/15/20 22:00,Qinghai,China,18,0,13
+2/15/20 22:00,Taiwan,Taiwan,18,0,2
+2/15/20 22:00,,Germany,16,0,1
+2/15/20 22:00,,Vietnam,16,0,7
+2/15/20 22:00,,France,12,1,4
+2/15/20 22:00,Macau,Macau,10,0,3
+2/15/20 22:00,,UK,9,0,1
+2/15/20 22:00,,United Arab Emirates,8,0,3
+2/15/20 22:00,Queensland,Australia,5,0,0
+2/15/20 22:00,New South Wales,Australia,4,0,4
+2/15/20 22:00,Victoria,Australia,4,0,4
+2/15/20 22:00,British Columbia,Canada,4,0,0
+2/15/20 22:00,,India,3,0,0
+2/15/20 22:00,,Italy,3,0,0
+2/15/20 22:00,,Philippines,3,1,1
+2/15/20 22:00,South Australia,Australia,2,0,0
+2/15/20 22:00,"Toronto, ON",Canada,2,0,0
+2/15/20 22:00,,Russia,2,0,2
+2/15/20 22:00,,Spain,2,0,2
+2/15/20 22:00,"Chicago, IL",US,2,0,2
+2/15/20 22:00,"San Benito, CA",US,2,0,0
+2/15/20 22:00,"San Diego County, CA",US,2,0,0
+2/15/20 22:00,"Santa Clara, CA",US,2,0,0
+2/15/20 22:00,,Belgium,1,0,0
+2/15/20 22:00,,Cambodia,1,0,1
+2/15/20 22:00,"London, ON",Canada,1,0,1
+2/15/20 22:00,,Egypt,1,0,0
+2/15/20 22:00,,Finland,1,0,1
+2/15/20 22:00,Tibet,China,1,0,1
+2/15/20 22:00,,Nepal,1,0,1
+2/15/20 22:00,,Sri Lanka,1,0,1
+2/15/20 22:00,,Sweden,1,0,0
+2/15/20 22:00,"Boston, MA",US,1,0,0
+2/15/20 22:00,"Los Angeles, CA",US,1,0,0
+2/15/20 22:00,"Madison, WI",US,1,0,0
+2/15/20 22:00,"Orange, CA",US,1,0,0
+2/15/20 22:00,"San Antonio, TX",US,1,0,0
+2/15/20 22:00,"Seattle, WA",US,1,0,1
+2/15/20 22:00,"Tempe, AZ",US,1,0,0
+2/16/20 22:00,Hubei,China,58182,1696,6639
+2/16/20 22:00,Guangdong,China,1316,2,465
+2/16/20 22:00,Henan,China,1231,13,440
+2/16/20 22:00,Zhejiang,China,1167,0,456
+2/16/20 22:00,Hunan,China,1004,3,464
+2/16/20 22:00,Anhui,China,962,6,255
+2/16/20 22:00,Jiangxi,China,925,1,240
+2/16/20 22:00,Jiangsu,China,617,0,218
+2/16/20 22:00,Chongqing,China,551,5,207
+2/16/20 22:00,Shandong,China,537,2,173
+2/16/20 22:00,Sichuan,China,481,3,131
+2/16/20 22:00,Heilongjiang,China,445,11,79
+2/16/20 22:00,Beijing,China,380,4,108
+2/16/20 22:00,Diamond Princess cruise ship,Others,355,0,0
+2/16/20 22:00,Shanghai,China,328,1,140
+2/16/20 22:00,Hebei,China,300,3,105
+2/16/20 22:00,Fujian,China,287,0,82
+2/16/20 22:00,Guangxi,China,237,2,49
+2/16/20 22:00,Shaanxi,China,236,0,71
+2/16/20 22:00,Yunnan,China,171,0,42
+2/16/20 22:00,Hainan,China,162,4,52
+2/16/20 22:00,Guizhou,China,144,1,46
+2/16/20 22:00,Shanxi,China,129,0,50
+2/16/20 22:00,Tianjin,China,124,3,45
+2/16/20 22:00,Liaoning,China,121,1,40
+2/16/20 22:00,Gansu,China,90,2,54
+2/16/20 22:00,Jilin,China,89,1,30
+2/16/20 22:00,,Singapore,75,0,18
+2/16/20 22:00,Xinjiang,China,71,1,12
+2/16/20 22:00,Inner Mongolia,China,70,0,8
+2/16/20 22:00,Ningxia,China,70,0,33
+2/16/20 22:00,,Japan,59,1,12
+2/16/20 22:00,Hong Kong,Hong Kong,57,1,2
+2/16/20 22:00,,Thailand,34,0,14
+2/16/20 22:00,,South Korea,29,0,9
+2/16/20 22:00,,Malaysia,22,0,7
+2/16/20 22:00,Taiwan,Taiwan,20,1,2
+2/16/20 22:00,Qinghai,China,18,0,13
+2/16/20 22:00,,Germany,16,0,1
+2/16/20 22:00,,Vietnam,16,0,7
+2/16/20 22:00,,France,12,1,4
+2/16/20 22:00,Macau,Macau,10,0,5
+2/16/20 22:00,,UK,9,0,8
+2/16/20 22:00,,United Arab Emirates,9,0,4
+2/16/20 22:00,Queensland,Australia,5,0,0
+2/16/20 22:00,New South Wales,Australia,4,0,4
+2/16/20 22:00,Victoria,Australia,4,0,4
+2/16/20 22:00,British Columbia,Canada,4,0,0
+2/16/20 22:00,,India,3,0,3
+2/16/20 22:00,,Italy,3,0,0
+2/16/20 22:00,,Philippines,3,1,1
+2/16/20 22:00,South Australia,Australia,2,0,0
+2/16/20 22:00,"Toronto, ON",Canada,2,0,0
+2/16/20 22:00,,Russia,2,0,2
+2/16/20 22:00,,Spain,2,0,2
+2/16/20 22:00,"Chicago, IL",US,2,0,2
+2/16/20 22:00,"San Benito, CA",US,2,0,0
+2/16/20 22:00,"San Diego County, CA",US,2,0,0
+2/16/20 22:00,"Santa Clara, CA",US,2,0,0
+2/16/20 22:00,,Belgium,1,0,0
+2/16/20 22:00,,Cambodia,1,0,1
+2/16/20 22:00,"London, ON",Canada,1,0,1
+2/16/20 22:00,,Egypt,1,0,0
+2/16/20 22:00,,Finland,1,0,1
+2/16/20 22:00,Tibet,China,1,0,1
+2/16/20 22:00,,Nepal,1,0,1
+2/16/20 22:00,,Sri Lanka,1,0,1
+2/16/20 22:00,,Sweden,1,0,0
+2/16/20 22:00,"Boston, MA",US,1,0,0
+2/16/20 22:00,"Los Angeles, CA",US,1,0,0
+2/16/20 22:00,"Madison, WI",US,1,0,0
+2/16/20 22:00,"Orange, CA",US,1,0,0
+2/16/20 22:00,"San Antonio, TX",US,1,0,0
+2/16/20 22:00,"Seattle, WA",US,1,0,1
+2/16/20 22:00,"Tempe, AZ",US,1,0,0
+2/17/20 22:00,Hubei,China,59989,1789,7862
+2/17/20 22:00,Guangdong,China,1322,4,524
+2/17/20 22:00,Henan,China,1246,16,509
+2/17/20 22:00,Zhejiang,China,1171,0,507
+2/17/20 22:00,Hunan,China,1006,3,498
+2/17/20 22:00,Anhui,China,973,6,280
+2/17/20 22:00,Jiangxi,China,930,1,275
+2/17/20 22:00,Jiangsu,China,626,0,258
+2/17/20 22:00,Chongqing,China,553,5,225
+2/17/20 22:00,Shandong,China,541,2,191
+2/17/20 22:00,Sichuan,China,495,3,156
+2/17/20 22:00,Heilongjiang,China,457,11,85
+2/17/20 22:00,Diamond Princess cruise ship,Others,454,0,0
+2/17/20 22:00,Beijing,China,381,4,114
+2/17/20 22:00,Shanghai,China,333,1,161
+2/17/20 22:00,Hebei,China,301,3,122
+2/17/20 22:00,Fujian,China,290,0,90
+2/17/20 22:00,Shaanxi,China,240,0,79
+2/17/20 22:00,Guangxi,China,238,2,53
+2/17/20 22:00,Yunnan,China,171,0,47
+2/17/20 22:00,Hainan,China,163,4,59
+2/17/20 22:00,Guizhou,China,146,1,57
+2/17/20 22:00,Shanxi,China,130,0,53
+2/17/20 22:00,Tianjin,China,125,3,46
+2/17/20 22:00,Liaoning,China,121,1,43
+2/17/20 22:00,Gansu,China,91,2,58
+2/17/20 22:00,Jilin,China,89,1,34
+2/17/20 22:00,,Singapore,77,0,24
+2/17/20 22:00,Xinjiang,China,75,1,12
+2/17/20 22:00,Inner Mongolia,China,72,0,8
+2/17/20 22:00,Ningxia,China,70,0,35
+2/17/20 22:00,,Japan,66,1,12
+2/17/20 22:00,Hong Kong,Hong Kong,60,1,2
+2/17/20 22:00,,Thailand,35,0,15
+2/17/20 22:00,,South Korea,30,0,10
+2/17/20 22:00,,Malaysia,22,0,7
+2/17/20 22:00,Taiwan,Taiwan,22,1,2
+2/17/20 22:00,Qinghai,China,18,0,13
+2/17/20 22:00,,Germany,16,0,1
+2/17/20 22:00,,Vietnam,16,0,7
+2/17/20 22:00,,France,12,1,4
+2/17/20 22:00,Macau,Macau,10,0,5
+2/17/20 22:00,,UK,9,0,8
+2/17/20 22:00,,United Arab Emirates,9,0,4
+2/17/20 22:00,Queensland,Australia,5,0,0
+2/17/20 22:00,British Columbia,Canada,5,0,0
+2/17/20 22:00,New South Wales,Australia,4,0,4
+2/17/20 22:00,Victoria,Australia,4,0,4
+2/17/20 22:00,,India,3,0,3
+2/17/20 22:00,,Italy,3,0,0
+2/17/20 22:00,,Philippines,3,1,1
+2/17/20 22:00,South Australia,Australia,2,0,2
+2/17/20 22:00,"Toronto, ON",Canada,2,0,0
+2/17/20 22:00,,Russia,2,0,2
+2/17/20 22:00,,Spain,2,0,2
+2/17/20 22:00,"Chicago, IL",US,2,0,2
+2/17/20 22:00,"San Benito, CA",US,2,0,0
+2/17/20 22:00,"San Diego County, CA",US,2,0,0
+2/17/20 22:00,"Santa Clara, CA",US,2,0,0
+2/17/20 22:00,,Belgium,1,0,1
+2/17/20 22:00,,Cambodia,1,0,1
+2/17/20 22:00,"London, ON",Canada,1,0,1
+2/17/20 22:00,,Egypt,1,0,0
+2/17/20 22:00,,Finland,1,0,1
+2/17/20 22:00,Tibet,China,1,0,1
+2/17/20 22:00,,Nepal,1,0,1
+2/17/20 22:00,,Sri Lanka,1,0,1
+2/17/20 22:00,,Sweden,1,0,0
+2/17/20 22:00,"Boston, MA",US,1,0,0
+2/17/20 22:00,"Los Angeles, CA",US,1,0,0
+2/17/20 22:00,"Madison, WI",US,1,0,0
+2/17/20 22:00,"Orange, CA",US,1,0,0
+2/17/20 22:00,"San Antonio, TX",US,1,0,0
+2/17/20 22:00,"Seattle, WA",US,1,0,1
+2/17/20 22:00,"Tempe, AZ",US,1,0,0
